@@ -1,0 +1,59 @@
+=== SUMMARY REPORT - OPTIMIZATION RESULTS ===
+Total Algorithms Tested: 3
+=============================================
+
+--- RESULT #1: COA ---
+Best Fitness : 1.4274152222414131e-06
+Runtime      : 233.15 sec
+Status       : NOT FEASIBLE
+Heavy Penalty: 700
+Light Penalty: 566
+
+=== HEAVY DETAIL ===
+- Diluar_Waktu: 231
+- Praktikum_Tanpa_Lab: 123
+- Dosen_Bentrok: 341
+- Dosen_Kurang_4_SKS: 5
+
+=== LIGHT DETAIL ===
+- Prioritas Mata Kuliah: 566
+
+=============================================
+
+--- RESULT #2: GA ---
+Best Fitness : 1.4979769820856933e-06
+Runtime      : 159.62 sec
+Status       : NOT FEASIBLE
+Heavy Penalty: 667
+Light Penalty: 566
+
+=== HEAVY DETAIL ===
+- Praktikum_Tanpa_Lab: 123
+- Diluar_Waktu: 214
+- Dosen_Bentrok: 325
+- Dosen_Kurang_4_SKS: 5
+
+=== LIGHT DETAIL ===
+- Prioritas Mata Kuliah: 566
+
+=============================================
+
+--- RESULT #3: SA ---
+Best Fitness : 1.296063724861224e-06
+Runtime      : 3.74 sec
+Status       : NOT FEASIBLE
+Heavy Penalty: 771
+Light Penalty: 566
+
+=== HEAVY DETAIL ===
+- Praktikum_Tanpa_Lab: 123
+- Diluar_Waktu: 255
+- Ruang_Bentrok: 1
+- Dosen_Bentrok: 387
+- Dosen_Kurang_4_SKS: 5
+
+=== LIGHT DETAIL ===
+- Prioritas Mata Kuliah: 566
+
+=============================================
+
