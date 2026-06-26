@@ -1,0 +1,129 @@
+=== LAPORAN SUBSTITUSI DOSEN & PRUNING KELAS MINAT ===
+=======================================================
+
+--- SUBSTITUSI DOSEN (0 kelas) ---
+  Tidak ada substitusi dosen (semua kelas punya dosen terdaftar).
+
+
+--- PRUNING KELAS MINAT (0 kelas dihapus) ---
+  Tidak ada kelas minat yang di-prune.
+
+
+--- RINGKASAN JUMLAH KELAS AKTIF PER MK ---
+  [WAJIB] CSD60706/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60706/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60011/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61208/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60707/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60707/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60061/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60061/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60061/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61112/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIT62003/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIT61016/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT61021/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60704/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60704/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61123/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60052/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60052/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60052/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61102/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60048/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61102/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIT61026/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60714/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60714/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61206/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIT61015/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60713/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60713/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60025/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61301/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60044/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61128/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61106/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] UBU60003/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] UBU60003/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] UBU60003/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61103/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61115/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIT60045/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61103/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60701/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60701/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61107/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIE61404/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60031/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61119/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIE61115/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60015/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60015/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60015/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60051/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60051/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60051/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIE61402/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIE61403/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE62204/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61109/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60014/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60014/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60014/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60705/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60705/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61205/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS60103/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60708/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60708/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60708/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIE61114/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61125/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60016/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] COM60016/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] COM60016/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61104/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61110/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIT60052/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS60102/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIE61215/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIT61006/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60039/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61124/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIT60053/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIE61113/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61111/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61112/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS62109/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61108/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61110/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60711/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60711/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60711/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61120/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIE61101/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS60101/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60712/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60712/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60712/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS61118/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61108/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61113/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIT60033/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS60106/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60710/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60710/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIS61111/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CSD60702/Pendidikan Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CSD60702/Sistem Informasi: 4/4 kelas aktif
+  [MINAT] CIS60105/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60703/Sistem Informasi: 4/4 kelas aktif
+  [WAJIB] CSD60703/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60047/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60049/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60036/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60042/Teknologi Informasi: 4/4 kelas aktif
+  [WAJIB] CIT61024/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIT60051/Teknologi Informasi: 4/4 kelas aktif
+  [MINAT] CIS60104/Sistem Informasi: 4/4 kelas aktif
