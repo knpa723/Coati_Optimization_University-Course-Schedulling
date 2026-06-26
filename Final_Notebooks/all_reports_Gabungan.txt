@@ -3,20 +3,20 @@ Total Algorithms Tested: 1
 =============================================
 
 --- RESULT #1: COA ---
-Best Fitness : 0.000000
-Runtime      : 856.48 sec
+Best Fitness : 0.000001
+Runtime      : 1029.30 sec
 Status       : NOT FEASIBLE
-Heavy Penalty: 2160
-Light Penalty: 1183
+Heavy Penalty: 1118
+Light Penalty: 1226
 
 === HEAVY DETAIL ===
-  - Ruang_Bentrok: 256
-  - Dosen_Bentrok: 1128
-  - Dosen_SKS_Diluar_Range: 776
+  - Ruang_Bentrok: 114
+  - Dosen_Bentrok: 324
+  - Dosen_SKS_Diluar_Range: 680
 
 === LIGHT DETAIL ===
-  - Prioritas Mata Kuliah: 480
-  - Perpindahan_Gedung_Lantai: 703
+  - Prioritas Mata Kuliah: 566
+  - Perpindahan_Gedung_Lantai: 660
 
 =============================================
 
