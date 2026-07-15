@@ -1,0 +1,1 @@
+population,max_iter,seed,slot_interval,move_frac,W_HEAVY,W_SOFT,MAX_MENIT_DOSEN,final_fitness,final_penalty,initial_penalty,reduction_pct,execution_time,is_feasible,H1_room_conflict,H2_lecturer_conflict,H3_lecturer_overload,H4_room_type_mismatch,H5_lunch_break,H6_class_completeness,S1_floor_movement
