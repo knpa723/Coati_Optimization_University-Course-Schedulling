@@ -1,0 +1,20 @@
+=== RINGKASAN EKSPERIMEN COA MODEL 1 (Greedy Initialization) ===
+
+Total run: 40 (8 kombinasi x 5 seed)
+
+--- SKENARIO 1: PARAMETER ---
+Dampak population terhadap fitness: 0.81%
+Dampak max_iter terhadap fitness: 2.42%
+Dampak slot_interval terhadap fitness: 0.00%
+Konfigurasi terbaik: pop=50, iter=1000, interval=50
+
+--- SKENARIO 2: CONSTRAINTS ---
+Rata-rata penurunan penalty: 11.19%
+Run mencapai feasible: 0.0%
+  H1_room_conflict         | elim   2.5% | residual 3.58
+  H2_lecturer_conflict     | elim   0.0% | residual 25.85
+  H3_lecturer_overload     | elim   0.0% | residual 86.00
+  H4_room_type_mismatch    | elim 100.0% | residual 0.00
+  H5_lunch_break           | elim   0.0% | residual 125.90
+  H6_class_completeness    | elim 100.0% | residual 0.00
+  S1_floor_movement        | elim   0.0% | residual 478.62

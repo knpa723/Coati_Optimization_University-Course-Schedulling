@@ -1,0 +1,865 @@
+Hari,Jam_Mulai,Jam_Selesai,Prodi,Kode_MK,Kelas,Nama_MK,Jenis,Ruang,Gedung,Lantai,Tipe_Ruang,Dosen,SKS,Kewajiban,Feasible
+Fri,07:00,07:50,Pendidikan Teknologi Informasi,CIE61102,D,Filsafat Pendidikan dan Sains,lecture,F11.1,F,11,Kelas,103,4,1,False
+Fri,07:00,07:50,Sistem Informasi,CIS61107,C,Manajemen Produk,lecture,F2.8,F,2,Kelas,47,3,1,False
+Fri,07:00,07:50,Pendidikan Teknologi Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.13,F,3,Kelas,11,3,1,False
+Fri,07:00,07:50,Sistem Informasi,CIS61106,A,Keamanan dan Privasi Data,lecture,F3.17,F,3,Kelas,17,2,1,False
+Fri,07:00,07:50,Pendidikan Teknologi Informasi,COM60061,D,Capstone Project,lecture,F3.18,F,3,Kelas,76,3,1,False
+Fri,07:00,07:50,Sistem Informasi,CSD60711,D,Perancangan Pengalaman Pengguna,lecture,F3.6,F,3,Kelas,62,3,1,False
+Fri,07:00,07:50,Teknologi Informasi,CIT60031,A,Manajemen Proyek Teknologi Informasi,lecture,F3.9,F,3,Kelas,94,3,0,False
+Fri,07:00,07:50,Teknologi Informasi,CIT61016,C,Data Sains,lecture,F4.3,F,4,Kelas,15,3,1,False
+Fri,07:00,07:50,Pendidikan Teknologi Informasi,COM60014,D,Pemrograman Dasar,practicum,G1.3,G,1,Lab,75,5,1,False
+Fri,07:00,07:50,Pendidikan Teknologi Informasi,CIE61208,A,Basis Data,practicum,G1.7,G,1,Lab,4,3,1,False
+Fri,07:00,07:50,Pendidikan Teknologi Informasi,CIE61109,B,Pembelajaran Mikro,practicum,G1.8,G,1,Lab,100,3,1,False
+Fri,07:50,08:40,Pendidikan Teknologi Informasi,COM60015,C,Matematika Diskret,lecture,F11.1,F,11,Kelas,103,2,1,False
+Fri,07:50,08:40,Pendidikan Teknologi Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.2,F,2,Kelas,100,3,1,False
+Fri,07:50,08:40,Sistem Informasi,COM60016,A,Pengantar Keilmuan Komputer,lecture,F2.4,F,2,Kelas,47,2,1,False
+Fri,07:50,08:40,Sistem Informasi,CSD60704,A,Desain Basis Data,lecture,F2.5,F,2,Kelas,72,2,1,False
+Fri,07:50,08:40,Sistem Informasi,CIS61110,A,Pengembangan Aplikasi Mobile,lecture,F3.12,F,3,Kelas,4,3,1,False
+Fri,07:50,08:40,Sistem Informasi,CIS60101,A,Perkembangan dan Tren Teknologi Digital,lecture,F3.13,F,3,Kelas,94,2,0,False
+Fri,07:50,08:40,Teknologi Informasi,CIT60045,A,Kriptografi,lecture,F3.3,F,3,Kelas,14,3,0,False
+Fri,07:50,08:40,Sistem Informasi,COM60061,B,Capstone Project,lecture,F3.4,F,3,Kelas,87,3,1,False
+Fri,07:50,08:40,Pendidikan Teknologi Informasi,COM60016,D,Pengantar Keilmuan Komputer,lecture,F3.6,F,3,Kelas,90,2,1,False
+Fri,07:50,08:40,Sistem Informasi,CIS60103,A,Pemrograman Web Lanjut,lecture,F3.8,F,3,Kelas,1,3,0,False
+Fri,07:50,08:40,Sistem Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.9,F,3,Kelas,83,3,1,False
+Fri,07:50,08:40,Teknologi Informasi,CSD60705,C,Pemrograman SQL,lecture,F4.12,F,4,Kelas,91,3,1,False
+Fri,07:50,08:40,Sistem Informasi,CIS61115,B,Komunikasi Profesional,lecture,F4.5,F,4,Kelas,108,2,1,False
+Fri,08:40,09:30,Teknologi Informasi,CIT60042,A,Teknologi Blockchain dan Platform Keuangan Digital,lecture,F11.4,F,11,Kelas,14,2,0,False
+Fri,08:40,09:30,Teknologi Informasi,COM60025,C,Kalkulus,lecture,F2.5,F,2,Kelas,103,2,1,False
+Fri,08:40,09:30,Teknologi Informasi,COM60014,B,Pemrograman Dasar,lecture,F3.1,F,3,Kelas,4,5,1,False
+Fri,08:40,09:30,Sistem Informasi,CIS61128,A,Keamanan Jaringan dan Siber,lecture,F3.14,F,3,Kelas,17,3,0,False
+Fri,08:40,09:30,Pendidikan Teknologi Informasi,CSD60708,C,Penambangan Data,lecture,F3.16,F,3,Kelas,102,3,1,False
+Fri,08:40,09:30,Pendidikan Teknologi Informasi,CIE61301,C,Kalkulus dan Aljabar Linear,lecture,F3.2,F,3,Kelas,75,3,1,False
+Fri,08:40,09:30,Teknologi Informasi,COM60025,D,Kalkulus,lecture,F3.6,F,3,Kelas,100,2,1,False
+Fri,08:40,09:30,Teknologi Informasi,COM60061,C,Capstone Project,lecture,F4.10,F,4,Kelas,47,3,1,False
+Fri,08:40,09:30,Pendidikan Teknologi Informasi,CIE61112,B,Pengenalan Lapangan Persekolahan 2,lecture,F4.11,F,4,Kelas,39,3,1,False
+Fri,08:40,09:30,Teknologi Informasi,COM60052,D,Etika Profesi,lecture,F4.2,F,4,Kelas,96,2,1,False
+Fri,08:40,09:30,Pendidikan Teknologi Informasi,CIE61112,D,Pengenalan Lapangan Persekolahan 2,lecture,F4.5,F,4,Kelas,59,3,1,False
+Fri,08:40,09:30,Sistem Informasi,CSD60703,B,Tata Kelola Teknologi Informasi,lecture,F4.6,F,4,Kelas,87,3,1,False
+Fri,08:40,09:30,Sistem Informasi,CIS61110,D,Pengembangan Aplikasi Mobile,lecture,F4.7,F,4,Kelas,60,3,1,False
+Fri,08:40,09:30,Sistem Informasi,CSD60705,C,Pemrograman SQL,practicum,G1.2,G,1,Lab,73,3,1,False
+Fri,08:40,09:30,Sistem Informasi,COM60014,C,Pemrograman Dasar,practicum,G1.5,G,1,Lab,31,5,1,False
+Fri,09:30,10:20,Pendidikan Teknologi Informasi,CIE61101,A,Perkembangan Peserta Didik,lecture,F11.1,F,11,Kelas,39,3,1,False
+Fri,09:30,10:20,Pendidikan Teknologi Informasi,CSD60708,D,Penambangan Data,lecture,F2.4,F,2,Kelas,102,3,1,False
+Fri,09:30,10:20,Pendidikan Teknologi Informasi,CIE61403,A,Paradigma Berpikir Sistem dan Desain,lecture,F2.5,F,2,Kelas,47,3,0,False
+Fri,09:30,10:20,Sistem Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.8,F,2,Kelas,87,3,1,False
+Fri,09:30,10:20,Sistem Informasi,COM60014,C,Pemrograman Dasar,lecture,F3.14,F,3,Kelas,31,5,1,False
+Fri,09:30,10:20,Teknologi Informasi,CIT61016,B,Data Sains,lecture,F3.18,F,3,Kelas,89,3,1,False
+Fri,09:30,10:20,Teknologi Informasi,COM60015,C,Matematika Diskret,lecture,F3.7a,F,3,Kelas,100,2,1,False
+Fri,09:30,10:20,Teknologi Informasi,CSD60703,B,Tata Kelola Teknologi Informasi,lecture,F3.7b,F,3,Kelas,15,3,1,False
+Fri,09:30,10:20,Pendidikan Teknologi Informasi,COM60016,C,Pengantar Keilmuan Komputer,lecture,F4.11,F,4,Kelas,83,2,1,False
+Fri,09:30,10:20,Sistem Informasi,CIS61113,B,Sistem Enterprise,lecture,F4.2,F,4,Kelas,76,3,1,False
+Fri,09:30,10:20,Sistem Informasi,CIS61102,D,Infrastruktur Teknologi Informasi,lecture,F4.3,F,4,Kelas,103,2,1,False
+Fri,09:30,10:20,Teknologi Informasi,CSD60703,C,Tata Kelola Teknologi Informasi,lecture,F4.9,F,4,Kelas,6,3,1,False
+Fri,09:30,10:20,Teknologi Informasi,CSD60713,A,Jaringan Terapan,practicum,G1.3,G,1,Lab,79,3,0,False
+Fri,09:30,10:20,Pendidikan Teknologi Informasi,CIE61205,B,Pemrograman Web,practicum,G1.6,G,1,Lab,4,3,1,False
+Fri,10:20,11:10,Pendidikan Teknologi Informasi,CIE61301,D,Kalkulus dan Aljabar Linear,lecture,F2.2,F,2,Kelas,103,3,1,False
+Fri,10:20,11:10,Sistem Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.4,F,2,Kelas,100,3,1,False
+Fri,10:20,11:10,Sistem Informasi,CIS61102,A,Infrastruktur Teknologi Informasi,lecture,F2.5,F,2,Kelas,17,2,1,False
+Fri,10:20,11:10,Teknologi Informasi,COM60061,B,Capstone Project,lecture,F3.12,F,3,Kelas,4,3,1,False
+Fri,10:20,11:10,Teknologi Informasi,COM60052,C,Etika Profesi,lecture,F3.18,F,3,Kelas,4,2,1,False
+Fri,10:20,11:10,Sistem Informasi,CSD60705,B,Pemrograman SQL,lecture,F3.5a,F,3,Kelas,72,3,1,False
+Fri,10:20,11:10,Sistem Informasi,CIS61112,A,Dasar Manajemen Proyek,lecture,F4.11,F,4,Kelas,47,2,1,False
+Fri,10:20,11:10,Sistem Informasi,CIS61103,C,Manajemen Bisnis,lecture,F4.4,F,4,Kelas,87,2,1,False
+Fri,10:20,11:10,Pendidikan Teknologi Informasi,CIE61206,C,Jaringan Komputer,practicum,G1.9,G,1,Lab,75,3,1,False
+Fri,11:10,12:00,Sistem Informasi,CIS61113,C,Sistem Enterprise,lecture,F3.10,F,3,Kelas,76,3,1,False
+Fri,11:10,12:00,Pendidikan Teknologi Informasi,CIE61215,A,Pengembangan Aplikasi Peranti Bergerak,lecture,F3.11,F,3,Kelas,47,3,0,False
+Fri,11:10,12:00,Teknologi Informasi,CIT61026,D,Internet of Things,lecture,F3.13,F,3,Kelas,96,4,1,False
+Fri,11:10,12:00,Pendidikan Teknologi Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F3.3,F,3,Kelas,107,3,1,False
+Fri,11:10,12:00,Sistem Informasi,CIS61110,C,Pengembangan Aplikasi Mobile,lecture,F3.4,F,3,Kelas,31,3,1,False
+Fri,11:10,12:00,Pendidikan Teknologi Informasi,CIE61108,D,Penilaian Hasil Belajar,lecture,F3.5b,F,3,Kelas,100,3,1,False
+Fri,11:10,12:00,Sistem Informasi,CIS60104,A,Transformasi Pemerintah,lecture,F3.7a,F,3,Kelas,94,2,0,False
+Fri,11:10,12:00,Sistem Informasi,CIS60102,A,Pengembangan Aplikasi Multiplatform,lecture,F3.8,F,3,Kelas,16,2,0,False
+Fri,11:10,12:00,Pendidikan Teknologi Informasi,CIE61102,A,Filsafat Pendidikan dan Sains,lecture,F4.5,F,4,Kelas,59,4,1,False
+Fri,11:10,12:00,Sistem Informasi,COM60015,D,Matematika Diskret,lecture,F4.9,F,4,Kelas,103,2,1,False
+Fri,11:10,12:00,Pendidikan Teknologi Informasi,COM60014,B,Pemrograman Dasar,practicum,G1.3,G,1,Lab,4,5,1,False
+Fri,12:00,12:50,Pendidikan Teknologi Informasi,COM60014,A,Pemrograman Dasar,lecture,F11.3,F,11,Kelas,47,5,1,False
+Fri,12:00,12:50,Sistem Informasi,CIS61111,C,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F11.4,F,11,Kelas,108,2,1,False
+Fri,12:00,12:50,Teknologi Informasi,COM60014,B,Pemrograman Dasar,lecture,F2.4,F,2,Kelas,4,5,1,False
+Fri,12:00,12:50,Teknologi Informasi,COM60015,D,Matematika Diskret,lecture,F3.11,F,3,Kelas,103,2,1,False
+Fri,12:00,12:50,Sistem Informasi,CIS61108,C,Rekayasa Sistem Informasi,lecture,F3.18,F,3,Kelas,67,5,1,False
+Fri,12:00,12:50,Sistem Informasi,CSD60704,B,Desain Basis Data,lecture,F3.3,F,3,Kelas,102,2,1,False
+Fri,12:00,12:50,Pendidikan Teknologi Informasi,CIE62204,A,Paradigma Sistem,lecture,F4.2,F,4,Kelas,6,2,1,False
+Fri,12:00,12:50,Sistem Informasi,CSD60708,A,Penambangan Data,lecture,F4.3,F,4,Kelas,92,3,0,False
+Fri,12:00,12:50,Sistem Informasi,CIS61106,B,Keamanan dan Privasi Data,lecture,F4.6,F,4,Kelas,75,2,1,False
+Fri,12:00,12:50,Teknologi Informasi,COM60015,A,Matematika Diskret,lecture,F4.9,F,4,Kelas,100,2,1,False
+Fri,12:50,13:40,Sistem Informasi,CIS61112,D,Dasar Manajemen Proyek,lecture,F11.3,F,11,Kelas,76,2,1,False
+Fri,12:50,13:40,Teknologi Informasi,COM60052,B,Etika Profesi,lecture,F2.2,F,2,Kelas,96,2,1,False
+Fri,12:50,13:40,Sistem Informasi,CIS61110,D,Pengembangan Aplikasi Mobile,lecture,F3.1,F,3,Kelas,60,3,1,False
+Fri,12:50,13:40,Teknologi Informasi,CIT62003,B,Dasar Pengembangan Sistem informasi,lecture,F3.11,F,3,Kelas,31,3,1,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,CIE61404,A,Manajemen Proyek Teknologi Informasi,lecture,F3.5a,F,3,Kelas,6,3,0,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F3.5b,F,3,Kelas,100,3,1,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,CIE61102,D,Filsafat Pendidikan dan Sains,lecture,F3.7a,F,3,Kelas,103,4,1,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,CIE61110,D,Perancangan Pembelajaran,lecture,F3.7b,F,3,Kelas,39,3,1,False
+Fri,12:50,13:40,Sistem Informasi,CIS61115,A,Komunikasi Profesional,lecture,F4.13,F,4,Kelas,87,2,1,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,COM60052,C,Etika Profesi,lecture,F4.3,F,4,Kelas,22,2,1,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,CSD60708,D,Penambangan Data,lecture,F4.6,F,4,Kelas,102,3,1,False
+Fri,12:50,13:40,Sistem Informasi,CIS61107,C,Manajemen Produk,lecture,F4.9,F,4,Kelas,47,3,1,False
+Fri,12:50,13:40,Teknologi Informasi,CIT61006,A,Pengembangan Aplikasi Web,practicum,G1.5,G,1,Lab,4,4,1,False
+Fri,12:50,13:40,Pendidikan Teknologi Informasi,CIE61205,D,Pemrograman Web,practicum,G1.8,G,1,Lab,75,3,1,False
+Fri,13:40,14:30,Pendidikan Teknologi Informasi,CIE61102,D,Filsafat Pendidikan dan Sains,lecture,F11.1,F,11,Kelas,103,4,1,False
+Fri,13:40,14:30,Pendidikan Teknologi Informasi,CIE61215,A,Pengembangan Aplikasi Peranti Bergerak,lecture,F2.2,F,2,Kelas,47,3,0,False
+Fri,13:40,14:30,Pendidikan Teknologi Informasi,CSD60708,C,Penambangan Data,lecture,F3.1,F,3,Kelas,102,3,1,False
+Fri,13:40,14:30,Pendidikan Teknologi Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F3.10,F,3,Kelas,107,3,1,False
+Fri,13:40,14:30,Teknologi Informasi,COM60025,A,Kalkulus,lecture,F3.14,F,3,Kelas,100,2,1,False
+Fri,13:40,14:30,Sistem Informasi,CSD60703,A,Tata Kelola Teknologi Informasi,lecture,F3.8,F,3,Kelas,6,3,1,False
+Fri,13:40,14:30,Pendidikan Teknologi Informasi,CIE61208,A,Basis Data,lecture,F4.13,F,4,Kelas,4,3,1,False
+Fri,13:40,14:30,Pendidikan Teknologi Informasi,CIE61109,A,Pembelajaran Mikro,practicum,G1.4,G,1,Lab,39,3,1,False
+Fri,13:40,14:30,Sistem Informasi,CSD60710,A,Sistem Informasi Geografis,practicum,G1.9,G,1,Lab,87,3,0,False
+Fri,14:30,15:20,Teknologi Informasi,CSD60703,D,Tata Kelola Teknologi Informasi,lecture,F11.3,F,11,Kelas,15,3,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,CIE61103,A,Komunikasi dan Teknologi Pendidikan,lecture,F2.4,F,2,Kelas,103,3,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,COM60061,C,Capstone Project,lecture,F2.5,F,2,Kelas,40,3,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,COM60061,A,Capstone Project,lecture,F3.10,F,3,Kelas,4,3,1,False
+Fri,14:30,15:20,Sistem Informasi,CIS61104,D,Pengantar Sistem informasi,lecture,F3.12,F,3,Kelas,102,2,1,False
+Fri,14:30,15:20,Teknologi Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.13,F,3,Kelas,103,3,1,False
+Fri,14:30,15:20,Sistem Informasi,CIS61108,B,Rekayasa Sistem Informasi,lecture,F3.14,F,3,Kelas,47,5,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,CIE61101,D,Perkembangan Peserta Didik,lecture,F3.17,F,3,Kelas,39,3,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,CIE61108,B,Penilaian Hasil Belajar,lecture,F3.18,F,3,Kelas,100,3,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,COM60061,B,Capstone Project,lecture,F3.7a,F,3,Kelas,22,3,1,False
+Fri,14:30,15:20,Pendidikan Teknologi Informasi,CIE62204,D,Paradigma Sistem,lecture,F3.9,F,3,Kelas,6,2,1,False
+Fri,14:30,15:20,Sistem Informasi,CIS61102,C,Infrastruktur Teknologi Informasi,lecture,F4.13,F,4,Kelas,17,2,1,False
+Fri,14:30,15:20,Teknologi Informasi,CIT61015,A,Jaringan Komputer,lecture,F4.6,F,4,Kelas,79,4,1,False
+Fri,14:30,15:20,Sistem Informasi,COM60014,D,Pemrograman Dasar,practicum,G1.3,G,1,Lab,67,5,1,False
+Fri,14:30,15:20,Sistem Informasi,CSD60706,C,Administrasi Basis Data,practicum,G1.7,G,1,Lab,75,3,1,False
+Fri,15:20,16:10,Sistem Informasi,CIS61113,D,Sistem Enterprise,lecture,F2.6,F,2,Kelas,76,3,1,False
+Fri,15:20,16:10,Sistem Informasi,COM60016,D,Pengantar Keilmuan Komputer,lecture,F2.8,F,2,Kelas,83,2,1,False
+Fri,15:20,16:10,Sistem Informasi,CIS61112,C,Dasar Manajemen Proyek,lecture,F3.10,F,3,Kelas,67,2,1,False
+Fri,15:20,16:10,Teknologi Informasi,CIT61015,D,Jaringan Komputer,lecture,F3.17,F,3,Kelas,75,4,1,False
+Fri,15:20,16:10,Pendidikan Teknologi Informasi,UBU60003,B,Kewirausahaan,lecture,F3.3,F,3,Kelas,62,2,1,False
+Fri,15:20,16:10,Pendidikan Teknologi Informasi,CIE61102,A,Filsafat Pendidikan dan Sains,lecture,F3.5a,F,3,Kelas,59,4,1,False
+Fri,15:20,16:10,Pendidikan Teknologi Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.5b,F,3,Kelas,100,3,1,False
+Fri,15:20,16:10,Sistem Informasi,CSD60703,B,Tata Kelola Teknologi Informasi,lecture,F3.6,F,3,Kelas,87,3,1,False
+Fri,15:20,16:10,Sistem Informasi,COM60015,D,Matematika Diskret,lecture,F3.9,F,3,Kelas,103,2,1,False
+Fri,15:20,16:10,Sistem Informasi,CSD60701,A,Manajemen Layanan Teknologi Informasi,lecture,F4.3,F,4,Kelas,94,2,0,False
+Fri,15:20,16:10,Sistem Informasi,COM60052,B,Etika Profesi,lecture,F4.7,F,4,Kelas,4,2,1,False
+Fri,15:20,16:10,Teknologi Informasi,CIT60047,A,Tata Kelola dan Kebijakan Keamanan Siber,lecture,F4.9,F,4,Kelas,14,2,0,False
+Fri,15:20,16:10,Teknologi Informasi,COM60014,A,Pemrograman Dasar,practicum,G1.2,G,1,Lab,47,5,1,False
+Fri,15:20,16:10,Pendidikan Teknologi Informasi,CIE61206,D,Jaringan Komputer,practicum,G1.4,G,1,Lab,79,3,1,False
+Fri,15:20,16:10,Teknologi Informasi,CSD60705,D,Pemrograman SQL,practicum,G1.5,G,1,Lab,102,3,1,False
+Fri,15:20,16:10,Teknologi Informasi,CIT61006,C,Pengembangan Aplikasi Web,practicum,G1.6,G,1,Lab,105,4,1,False
+Fri,15:20,16:10,Sistem Informasi,CSD60706,D,Administrasi Basis Data,practicum,G1.9,G,1,Lab,91,3,1,False
+Fri,16:10,17:00,Teknologi Informasi,CIT60047,A,Tata Kelola dan Kebijakan Keamanan Siber,lecture,F11.1,F,11,Kelas,14,2,0,False
+Fri,16:10,17:00,Pendidikan Teknologi Informasi,CIE61102,A,Filsafat Pendidikan dan Sains,lecture,F11.3,F,11,Kelas,59,4,1,False
+Fri,16:10,17:00,Pendidikan Teknologi Informasi,CIE61109,A,Pembelajaran Mikro,lecture,F2.5,F,2,Kelas,39,3,1,False
+Fri,16:10,17:00,Teknologi Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.5,F,2,Kelas,103,3,1,False
+Fri,16:10,17:00,Teknologi Informasi,CIT60039,A,Pengembangan Aplikasi Web Lanjut,lecture,F2.6,F,2,Kelas,4,3,0,False
+Fri,16:10,17:00,Teknologi Informasi,COM60061,C,Capstone Project,lecture,F3.1,F,3,Kelas,47,3,1,False
+Fri,16:10,17:00,Teknologi Informasi,COM60016,C,Pengantar Keilmuan Komputer,lecture,F3.10,F,3,Kelas,83,2,1,False
+Fri,16:10,17:00,Sistem Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.11,F,3,Kelas,87,3,1,False
+Fri,16:10,17:00,Teknologi Informasi,CIT61024,C,Teknologi Keamanan Siber,lecture,F3.12,F,3,Kelas,75,3,1,False
+Fri,16:10,17:00,Sistem Informasi,CIS61104,B,Pengantar Sistem informasi,lecture,F3.5a,F,3,Kelas,108,2,1,False
+Fri,16:10,17:00,Pendidikan Teknologi Informasi,CIE61102,B,Filsafat Pendidikan dan Sains,lecture,F3.6,F,3,Kelas,103,4,1,False
+Fri,16:10,17:00,Sistem Informasi,COM60015,A,Matematika Diskret,lecture,F3.7a,F,3,Kelas,100,2,1,False
+Fri,16:10,17:00,Teknologi Informasi,COM60061,B,Capstone Project,lecture,F4.14,F,4,Kelas,4,3,1,False
+Fri,16:10,17:00,Pendidikan Teknologi Informasi,CIE62204,C,Paradigma Sistem,lecture,F4.3,F,4,Kelas,6,2,1,False
+Fri,16:10,17:00,Pendidikan Teknologi Informasi,CIE61206,A,Jaringan Komputer,lecture,F4.6,F,4,Kelas,17,3,1,False
+Fri,16:10,17:00,Sistem Informasi,CSD60706,B,Administrasi Basis Data,practicum,G1.6,G,1,Lab,102,3,1,False
+Fri,17:00,17:50,Pendidikan Teknologi Informasi,CIE61205,C,Pemrograman Web,lecture,F2.4,F,2,Kelas,47,3,1,False
+Fri,17:00,17:50,Teknologi Informasi,CIT61026,A,Internet of Things,lecture,F3.12,F,3,Kelas,90,4,1,False
+Fri,17:00,17:50,Sistem Informasi,COM60061,C,Capstone Project,lecture,F3.17,F,3,Kelas,4,3,1,False
+Fri,17:00,17:50,Pendidikan Teknologi Informasi,CIE61301,B,Kalkulus dan Aljabar Linear,lecture,F3.18,F,3,Kelas,100,3,1,False
+Fri,17:00,17:50,Teknologi Informasi,UBU60003,B,Kewirausahaan,lecture,F3.2,F,3,Kelas,47,2,1,False
+Fri,17:00,17:50,Pendidikan Teknologi Informasi,CIE61301,A,Kalkulus dan Aljabar Linear,lecture,F3.6,F,3,Kelas,103,3,1,False
+Fri,17:00,17:50,Teknologi Informasi,CSD60706,A,Administrasi Basis Data,lecture,F3.7b,F,3,Kelas,102,3,0,False
+Fri,17:00,17:50,Pendidikan Teknologi Informasi,CIE61111,D,Pengenalan Lapangan Persekolahan 1,lecture,F4.12,F,4,Kelas,59,1,1,False
+Fri,17:00,17:50,Pendidikan Teknologi Informasi,CIE61112,B,Pengenalan Lapangan Persekolahan 2,lecture,F4.4,F,4,Kelas,39,3,1,False
+Fri,17:00,17:50,Sistem Informasi,CIS61108,D,Rekayasa Sistem Informasi,lecture,F4.5,F,4,Kelas,108,5,1,False
+Fri,17:00,17:50,Sistem Informasi,CIS61104,C,Pengantar Sistem informasi,lecture,F4.6,F,4,Kelas,67,2,1,False
+Fri,17:00,17:50,Teknologi Informasi,CSD60705,C,Pemrograman SQL,practicum,G1.2,G,1,Lab,91,3,1,False
+Fri,17:00,17:50,Teknologi Informasi,CIT62003,B,Dasar Pengembangan Sistem informasi,practicum,G1.3,G,1,Lab,31,3,1,False
+Fri,17:00,17:50,Teknologi Informasi,CSD60705,B,Pemrograman SQL,practicum,G1.5,G,1,Lab,60,3,1,False
+Mon,07:00,07:50,Teknologi Informasi,COM60011,A,Arsitektur dan Organisasi Komputer,lecture,F11.1,F,11,Kelas,103,2,1,False
+Mon,07:00,07:50,Pendidikan Teknologi Informasi,CIE61206,D,Jaringan Komputer,lecture,F11.3,F,11,Kelas,79,3,1,False
+Mon,07:00,07:50,Pendidikan Teknologi Informasi,COM60016,C,Pengantar Keilmuan Komputer,lecture,F2.1,F,2,Kelas,83,2,1,False
+Mon,07:00,07:50,Teknologi Informasi,CSD60703,D,Tata Kelola Teknologi Informasi,lecture,F2.4,F,2,Kelas,15,3,1,False
+Mon,07:00,07:50,Sistem Informasi,CIS61113,D,Sistem Enterprise,lecture,F3.1,F,3,Kelas,76,3,1,False
+Mon,07:00,07:50,Pendidikan Teknologi Informasi,CIE61115,A,Manajemen Sistem Pendidikan,lecture,F3.11,F,3,Kelas,39,3,0,False
+Mon,07:00,07:50,Sistem Informasi,CIS61104,C,Pengantar Sistem informasi,lecture,F3.17,F,3,Kelas,67,2,1,False
+Mon,07:00,07:50,Pendidikan Teknologi Informasi,COM60052,D,Etika Profesi,lecture,F4.3,F,4,Kelas,48,2,1,False
+Mon,07:00,07:50,Pendidikan Teknologi Informasi,CIE61205,B,Pemrograman Web,lecture,F4.5,F,4,Kelas,4,3,1,False
+Mon,07:00,07:50,Sistem Informasi,CSD60705,A,Pemrograman SQL,practicum,G1.5,G,1,Lab,22,3,1,False
+Mon,07:00,07:50,Pendidikan Teknologi Informasi,COM60014,A,Pemrograman Dasar,practicum,G1.7,G,1,Lab,47,5,1,False
+Mon,07:50,08:40,Teknologi Informasi,CIT60048,A,Information Retrieval,lecture,F2.8,F,2,Kelas,52,2,0,False
+Mon,07:50,08:40,Sistem Informasi,COM60014,B,Pemrograman Dasar,lecture,F3.1,F,3,Kelas,4,5,1,False
+Mon,07:50,08:40,Teknologi Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F3.10,F,3,Kelas,107,3,1,False
+Mon,07:50,08:40,Pendidikan Teknologi Informasi,CIE61402,A,Paradigma Berpikir Komputasi,lecture,F3.15,F,3,Kelas,47,3,0,False
+Mon,07:50,08:40,Teknologi Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.16,F,3,Kelas,103,3,1,False
+Mon,07:50,08:40,Pendidikan Teknologi Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.3,F,3,Kelas,100,3,1,False
+Mon,07:50,08:40,Pendidikan Teknologi Informasi,UBU60003,C,Kewirausahaan,lecture,F4.10,F,4,Kelas,62,2,1,False
+Mon,07:50,08:40,Sistem Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.12,F,4,Kelas,87,3,1,False
+Mon,07:50,08:40,Sistem Informasi,CIS61107,B,Manajemen Produk,lecture,F4.14,F,4,Kelas,60,3,1,False
+Mon,07:50,08:40,Teknologi Informasi,CIT61026,B,Internet of Things,lecture,F4.2,F,4,Kelas,17,4,1,False
+Mon,07:50,08:40,Teknologi Informasi,CIT60052,A,Pengembangan Aplikasi Mobile Terapan,lecture,F4.7,F,4,Kelas,16,3,0,False
+Mon,07:50,08:40,Sistem Informasi,CSD60706,A,Administrasi Basis Data,practicum,G1.2,G,1,Lab,72,3,1,False
+Mon,07:50,08:40,Pendidikan Teknologi Informasi,CSD60702,A,Sistem Pendukung Keputusan,practicum,G1.4,G,1,Lab,83,3,0,False
+Mon,08:40,09:30,Sistem Informasi,CIS61107,C,Manajemen Produk,lecture,F11.1,F,11,Kelas,47,3,1,False
+Mon,08:40,09:30,Sistem Informasi,CSD60704,D,Desain Basis Data,lecture,F2.4,F,2,Kelas,75,2,1,False
+Mon,08:40,09:30,Sistem Informasi,CIS61115,D,Komunikasi Profesional,lecture,F3.14,F,3,Kelas,108,2,1,False
+Mon,08:40,09:30,Sistem Informasi,COM60052,A,Etika Profesi,lecture,F3.18,F,3,Kelas,87,2,1,False
+Mon,08:40,09:30,Sistem Informasi,CIS61113,C,Sistem Enterprise,lecture,F3.2,F,3,Kelas,76,3,1,False
+Mon,08:40,09:30,Sistem Informasi,COM60052,D,Etika Profesi,lecture,F3.4,F,3,Kelas,4,2,1,False
+Mon,08:40,09:30,Teknologi Informasi,CIT61024,D,Teknologi Keamanan Siber,lecture,F3.8,F,3,Kelas,46,3,1,False
+Mon,08:40,09:30,Pendidikan Teknologi Informasi,CIE61110,B,Perancangan Pembelajaran,lecture,F3.9,F,3,Kelas,39,3,1,False
+Mon,08:40,09:30,Pendidikan Teknologi Informasi,CIE61108,A,Penilaian Hasil Belajar,lecture,F4.11,F,4,Kelas,100,3,1,False
+Mon,08:40,09:30,Sistem Informasi,CIS61102,B,Infrastruktur Teknologi Informasi,lecture,F4.4,F,4,Kelas,103,2,1,False
+Mon,08:40,09:30,Pendidikan Teknologi Informasi,CIE61208,D,Basis Data,practicum,G1.2,G,1,Lab,91,3,1,False
+Mon,08:40,09:30,Teknologi Informasi,CSD60710,A,Sistem Informasi Geografis,practicum,G1.6,G,1,Lab,11,3,0,False
+Mon,09:30,10:20,Sistem Informasi,CIS61111,B,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F11.4,F,11,Kelas,89,2,1,False
+Mon,09:30,10:20,Pendidikan Teknologi Informasi,CIE61102,C,Filsafat Pendidikan dan Sains,lecture,F2.1,F,2,Kelas,59,4,1,False
+Mon,09:30,10:20,Teknologi Informasi,CIT61021,A,Data Warehouse,lecture,F3.14,F,3,Kelas,73,3,0,False
+Mon,09:30,10:20,Teknologi Informasi,COM60016,B,Pengantar Keilmuan Komputer,lecture,F3.15,F,3,Kelas,4,2,1,False
+Mon,09:30,10:20,Teknologi Informasi,CIT61026,C,Internet of Things,lecture,F3.2,F,3,Kelas,35,4,1,False
+Mon,09:30,10:20,Teknologi Informasi,COM60015,D,Matematika Diskret,lecture,F3.5a,F,3,Kelas,103,2,1,False
+Mon,09:30,10:20,Sistem Informasi,CSD60703,C,Tata Kelola Teknologi Informasi,lecture,F3.5b,F,3,Kelas,108,3,1,False
+Mon,09:30,10:20,Teknologi Informasi,COM60014,A,Pemrograman Dasar,lecture,F4.14,F,4,Kelas,47,5,1,False
+Mon,09:30,10:20,Pendidikan Teknologi Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.6,F,4,Kelas,100,3,1,False
+Mon,09:30,10:20,Pendidikan Teknologi Informasi,COM60061,B,Capstone Project,lecture,F4.7,F,4,Kelas,22,3,1,False
+Mon,09:30,10:20,Sistem Informasi,CIS61108,C,Rekayasa Sistem Informasi,practicum,G1.4,G,1,Lab,67,5,1,False
+Mon,09:30,10:20,Teknologi Informasi,CSD60705,A,Pemrograman SQL,practicum,G1.6,G,1,Lab,102,3,1,False
+Mon,09:30,10:20,Pendidikan Teknologi Informasi,CIE61206,D,Jaringan Komputer,practicum,G1.7,G,1,Lab,79,3,1,False
+Mon,10:20,11:10,Sistem Informasi,CIS61106,B,Keamanan dan Privasi Data,lecture,F2.2,F,2,Kelas,75,2,1,False
+Mon,10:20,11:10,Sistem Informasi,CIS62109,A,Pengujian dan Evaluasi Sistem Informasi,lecture,F2.5,F,2,Kelas,4,2,0,False
+Mon,10:20,11:10,Teknologi Informasi,CIT60033,A,Sistem Forensik Digital,lecture,F2.8,F,2,Kelas,94,3,0,False
+Mon,10:20,11:10,Pendidikan Teknologi Informasi,CIE61101,D,Perkembangan Peserta Didik,lecture,F3.1,F,3,Kelas,39,3,1,False
+Mon,10:20,11:10,Teknologi Informasi,CSD60704,A,Desain Basis Data,lecture,F3.15,F,3,Kelas,22,2,1,False
+Mon,10:20,11:10,Sistem Informasi,COM60015,C,Matematika Diskret,lecture,F3.2,F,3,Kelas,100,2,1,False
+Mon,10:20,11:10,Pendidikan Teknologi Informasi,CIE61215,A,Pengembangan Aplikasi Peranti Bergerak,lecture,F3.3,F,3,Kelas,47,3,0,False
+Mon,10:20,11:10,Sistem Informasi,CSD60706,A,Administrasi Basis Data,lecture,F4.12,F,4,Kelas,72,3,1,False
+Mon,10:20,11:10,Teknologi Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.5,F,4,Kelas,103,3,1,False
+Mon,11:10,12:00,Teknologi Informasi,CIT61006,D,Pengembangan Aplikasi Web,lecture,F11.3,F,11,Kelas,31,4,1,False
+Mon,11:10,12:00,Pendidikan Teknologi Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F11.4,F,11,Kelas,103,3,1,False
+Mon,11:10,12:00,Teknologi Informasi,COM60052,A,Etika Profesi,lecture,F2.5,F,2,Kelas,4,2,1,False
+Mon,11:10,12:00,Sistem Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F2.9,F,2,Kelas,87,3,1,False
+Mon,11:10,12:00,Sistem Informasi,CIS61106,C,Keamanan dan Privasi Data,lecture,F3.11,F,3,Kelas,108,2,1,False
+Mon,11:10,12:00,Teknologi Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.13,F,3,Kelas,16,3,1,False
+Mon,11:10,12:00,Teknologi Informasi,CIT60033,A,Sistem Forensik Digital,lecture,F3.14,F,3,Kelas,94,3,0,False
+Mon,11:10,12:00,Sistem Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F4.11,F,4,Kelas,100,3,1,False
+Mon,11:10,12:00,Sistem Informasi,CIS61108,B,Rekayasa Sistem Informasi,practicum,G1.2,G,1,Lab,47,5,1,False
+Mon,11:10,12:00,Teknologi Informasi,CIT62003,C,Dasar Pengembangan Sistem informasi,practicum,G1.4,G,1,Lab,67,3,1,False
+Mon,12:00,12:50,Sistem Informasi,CIS61106,D,Keamanan dan Privasi Data,lecture,F11.1,F,11,Kelas,17,2,1,False
+Mon,12:00,12:50,Pendidikan Teknologi Informasi,CIE61101,B,Perkembangan Peserta Didik,lecture,F2.2,F,2,Kelas,39,3,1,False
+Mon,12:00,12:50,Teknologi Informasi,CIT60051,A,Teknologi Smart City,lecture,F2.4,F,2,Kelas,47,2,0,False
+Mon,12:00,12:50,Teknologi Informasi,CIT60049,A,Teknologi Basis Data Non Relational,lecture,F2.6,F,2,Kelas,102,3,0,False
+Mon,12:00,12:50,Sistem Informasi,CIS61115,B,Komunikasi Profesional,lecture,F2.8,F,2,Kelas,108,2,1,False
+Mon,12:00,12:50,Teknologi Informasi,COM60025,A,Kalkulus,lecture,F3.17,F,3,Kelas,100,2,1,False
+Mon,12:00,12:50,Pendidikan Teknologi Informasi,UBU60003,A,Kewirausahaan,lecture,F3.7b,F,3,Kelas,62,2,1,False
+Mon,12:00,12:50,Sistem Informasi,CIS61107,B,Manajemen Produk,lecture,F3.8,F,3,Kelas,60,3,1,False
+Mon,12:00,12:50,Pendidikan Teknologi Informasi,CIE61103,A,Komunikasi dan Teknologi Pendidikan,lecture,F4.3,F,4,Kelas,103,3,1,False
+Mon,12:00,12:50,Sistem Informasi,CSD60710,A,Sistem Informasi Geografis,practicum,G1.6,G,1,Lab,87,3,0,False
+Mon,12:00,12:50,Teknologi Informasi,CIT62003,A,Dasar Pengembangan Sistem informasi,practicum,G1.8,G,1,Lab,4,3,1,False
+Mon,12:50,13:40,Pendidikan Teknologi Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F11.1,F,11,Kelas,92,3,1,False
+Mon,12:50,13:40,Sistem Informasi,CSD60706,B,Administrasi Basis Data,lecture,F2.2,F,2,Kelas,102,3,1,False
+Mon,12:50,13:40,Teknologi Informasi,COM60061,A,Capstone Project,lecture,F2.4,F,2,Kelas,14,3,1,False
+Mon,12:50,13:40,Pendidikan Teknologi Informasi,CIE61103,C,Komunikasi dan Teknologi Pendidikan,lecture,F2.5,F,2,Kelas,103,3,1,False
+Mon,12:50,13:40,Teknologi Informasi,CIT61016,C,Data Sains,lecture,F2.9,F,2,Kelas,15,3,1,False
+Mon,12:50,13:40,Sistem Informasi,CIS61110,B,Pengembangan Aplikasi Mobile,lecture,F3.1,F,3,Kelas,47,3,1,False
+Mon,12:50,13:40,Sistem Informasi,COM60052,C,Etika Profesi,lecture,F3.11,F,3,Kelas,87,2,1,False
+Mon,12:50,13:40,Pendidikan Teknologi Informasi,CIE61205,D,Pemrograman Web,lecture,F3.13,F,3,Kelas,75,3,1,False
+Mon,12:50,13:40,Pendidikan Teknologi Informasi,CIE61114,A,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,F3.16,F,3,Kelas,39,3,0,False
+Mon,12:50,13:40,Teknologi Informasi,CIT61024,A,Teknologi Keamanan Siber,lecture,F3.4,F,3,Kelas,17,3,1,False
+Mon,12:50,13:40,Sistem Informasi,COM60052,D,Etika Profesi,lecture,F3.8,F,3,Kelas,4,2,1,False
+Mon,12:50,13:40,Sistem Informasi,CIS61113,A,Sistem Enterprise,lecture,F4.10,F,4,Kelas,76,3,1,False
+Mon,12:50,13:40,Sistem Informasi,CIS61107,B,Manajemen Produk,lecture,F4.4,F,4,Kelas,60,3,1,False
+Mon,12:50,13:40,Teknologi Informasi,UBU60003,D,Kewirausahaan,lecture,F4.7,F,4,Kelas,96,2,1,False
+Mon,12:50,13:40,Teknologi Informasi,COM60014,C,Pemrograman Dasar,practicum,G1.3,G,1,Lab,31,5,1,False
+Mon,12:50,13:40,Teknologi Informasi,CIT61015,C,Jaringan Komputer,practicum,G1.4,G,1,Lab,35,4,1,False
+Mon,13:40,14:30,Pendidikan Teknologi Informasi,CIE61112,D,Pengenalan Lapangan Persekolahan 2,lecture,F11.3,F,11,Kelas,59,3,1,False
+Mon,13:40,14:30,Pendidikan Teknologi Informasi,COM60061,D,Capstone Project,lecture,F11.4,F,11,Kelas,76,3,1,False
+Mon,13:40,14:30,Sistem Informasi,CIS61111,D,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F2.1,F,2,Kelas,87,2,1,False
+Mon,13:40,14:30,Sistem Informasi,CSD60708,A,Penambangan Data,lecture,F2.2,F,2,Kelas,92,3,0,False
+Mon,13:40,14:30,Teknologi Informasi,COM60014,A,Pemrograman Dasar,lecture,F3.10,F,3,Kelas,47,5,1,False
+Mon,13:40,14:30,Sistem Informasi,CIS61108,C,Rekayasa Sistem Informasi,lecture,F3.13,F,3,Kelas,67,5,1,False
+Mon,13:40,14:30,Pendidikan Teknologi Informasi,CIE61101,A,Perkembangan Peserta Didik,lecture,F3.14,F,3,Kelas,39,3,1,False
+Mon,13:40,14:30,Pendidikan Teknologi Informasi,CIE61404,A,Manajemen Proyek Teknologi Informasi,lecture,F3.15,F,3,Kelas,6,3,0,False
+Mon,13:40,14:30,Teknologi Informasi,CSD60703,B,Tata Kelola Teknologi Informasi,lecture,F3.3,F,3,Kelas,15,3,1,False
+Mon,13:40,14:30,Teknologi Informasi,CSD60706,A,Administrasi Basis Data,lecture,F3.8,F,3,Kelas,102,3,0,False
+Mon,13:40,14:30,Teknologi Informasi,CIT61021,A,Data Warehouse,lecture,F4.13,F,4,Kelas,73,3,0,False
+Mon,13:40,14:30,Teknologi Informasi,COM60015,B,Matematika Diskret,lecture,F4.2,F,4,Kelas,103,2,1,False
+Mon,13:40,14:30,Teknologi Informasi,COM60016,D,Pengantar Keilmuan Komputer,lecture,F4.3,F,4,Kelas,90,2,1,False
+Mon,13:40,14:30,Teknologi Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F4.4,F,4,Kelas,107,3,1,False
+Mon,13:40,14:30,Pendidikan Teknologi Informasi,CSD60702,A,Sistem Pendukung Keputusan,practicum,G1.4,G,1,Lab,83,3,0,False
+Mon,13:40,14:30,Pendidikan Teknologi Informasi,CIE61109,B,Pembelajaran Mikro,practicum,G1.5,G,1,Lab,100,3,1,False
+Mon,13:40,14:30,Sistem Informasi,COM60014,B,Pemrograman Dasar,practicum,G1.6,G,1,Lab,4,5,1,False
+Mon,14:30,15:20,Teknologi Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F2.2,F,2,Kelas,11,3,1,False
+Mon,14:30,15:20,Teknologi Informasi,CSD60704,B,Desain Basis Data,lecture,F2.8,F,2,Kelas,102,2,1,False
+Mon,14:30,15:20,Teknologi Informasi,COM60011,B,Arsitektur dan Organisasi Komputer,lecture,F3.1,F,3,Kelas,103,2,1,False
+Mon,14:30,15:20,Sistem Informasi,COM60052,A,Etika Profesi,lecture,F3.11,F,3,Kelas,87,2,1,False
+Mon,14:30,15:20,Pendidikan Teknologi Informasi,CIE61108,C,Penilaian Hasil Belajar,lecture,F3.18,F,3,Kelas,100,3,1,False
+Mon,14:30,15:20,Sistem Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.5a,F,3,Kelas,83,3,1,False
+Mon,14:30,15:20,Pendidikan Teknologi Informasi,CIE61110,D,Perancangan Pembelajaran,lecture,F3.7b,F,3,Kelas,39,3,1,False
+Mon,14:30,15:20,Sistem Informasi,CSD60704,A,Desain Basis Data,lecture,F4.13,F,4,Kelas,72,2,1,False
+Mon,14:30,15:20,Sistem Informasi,CIS61113,B,Sistem Enterprise,lecture,F4.14,F,4,Kelas,76,3,1,False
+Mon,14:30,15:20,Pendidikan Teknologi Informasi,COM60014,D,Pemrograman Dasar,lecture,F4.4,F,4,Kelas,75,5,1,False
+Mon,14:30,15:20,Sistem Informasi,CSD60704,C,Desain Basis Data,lecture,F4.5,F,4,Kelas,108,2,1,False
+Mon,14:30,15:20,Teknologi Informasi,CIT61015,B,Jaringan Komputer,practicum,G1.2,G,1,Lab,17,4,1,False
+Mon,14:30,15:20,Pendidikan Teknologi Informasi,CIE61205,C,Pemrograman Web,practicum,G1.4,G,1,Lab,47,3,1,False
+Mon,14:30,15:20,Sistem Informasi,CIS61108,A,Rekayasa Sistem Informasi,practicum,G1.6,G,1,Lab,4,5,1,False
+Mon,15:20,16:10,Pendidikan Teknologi Informasi,CIE61103,B,Komunikasi dan Teknologi Pendidikan,lecture,F3.12,F,3,Kelas,39,3,1,False
+Mon,15:20,16:10,Sistem Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F3.15,F,3,Kelas,87,3,1,False
+Mon,15:20,16:10,Sistem Informasi,COM60016,C,Pengantar Keilmuan Komputer,lecture,F3.2,F,3,Kelas,108,2,1,False
+Mon,15:20,16:10,Teknologi Informasi,CSD60705,D,Pemrograman SQL,lecture,F3.3,F,3,Kelas,102,3,1,False
+Mon,15:20,16:10,Pendidikan Teknologi Informasi,COM60014,A,Pemrograman Dasar,lecture,F3.4,F,3,Kelas,47,5,1,False
+Mon,15:20,16:10,Teknologi Informasi,COM60025,D,Kalkulus,lecture,F4.10,F,4,Kelas,100,2,1,False
+Mon,15:20,16:10,Pendidikan Teknologi Informasi,CIE61404,A,Manajemen Proyek Teknologi Informasi,lecture,F4.12,F,4,Kelas,6,3,0,False
+Mon,15:20,16:10,Teknologi Informasi,COM60011,B,Arsitektur dan Organisasi Komputer,lecture,F4.6,F,4,Kelas,103,2,1,False
+Mon,15:20,16:10,Pendidikan Teknologi Informasi,COM60014,C,Pemrograman Dasar,practicum,G1.5,G,1,Lab,67,5,1,False
+Mon,15:20,16:10,Teknologi Informasi,COM60014,B,Pemrograman Dasar,practicum,G1.6,G,1,Lab,4,5,1,False
+Mon,15:20,16:10,Pendidikan Teknologi Informasi,CIE61206,C,Jaringan Komputer,practicum,G1.8,G,1,Lab,75,3,1,False
+Mon,15:20,16:10,Sistem Informasi,CIS61123,A,Enterprise Architecture II,practicum,G1.9,G,1,Lab,76,3,0,False
+Mon,16:10,17:00,Pendidikan Teknologi Informasi,CIE61110,C,Perancangan Pembelajaran,lecture,F2.9,F,2,Kelas,100,3,1,False
+Mon,16:10,17:00,Sistem Informasi,CSD60711,C,Perancangan Pengalaman Pengguna,lecture,F3.1,F,3,Kelas,60,3,1,False
+Mon,16:10,17:00,Sistem Informasi,CIS61111,D,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F3.17,F,3,Kelas,87,2,1,False
+Mon,16:10,17:00,Sistem Informasi,CIS61119,A,Manajemen Risiko dan Kontrol Sistem Informasi,lecture,F3.3,F,3,Kelas,6,2,0,False
+Mon,16:10,17:00,Teknologi Informasi,COM60011,C,Arsitektur dan Organisasi Komputer,lecture,F4.6,F,4,Kelas,103,2,1,False
+Mon,16:10,17:00,Sistem Informasi,CIS61104,B,Pengantar Sistem informasi,lecture,F4.9,F,4,Kelas,108,2,1,False
+Mon,16:10,17:00,Pendidikan Teknologi Informasi,COM60014,B,Pemrograman Dasar,practicum,G1.3,G,1,Lab,4,5,1,False
+Mon,16:10,17:00,Pendidikan Teknologi Informasi,CIE61109,C,Pembelajaran Mikro,practicum,G1.5,G,1,Lab,39,3,1,False
+Mon,16:10,17:00,Teknologi Informasi,CIT61006,D,Pengembangan Aplikasi Web,practicum,G1.8,G,1,Lab,31,4,1,False
+Mon,16:10,17:00,Sistem Informasi,COM60014,A,Pemrograman Dasar,practicum,G1.9,G,1,Lab,47,5,1,False
+Mon,17:00,17:50,Teknologi Informasi,COM60016,B,Pengantar Keilmuan Komputer,lecture,F11.1,F,11,Kelas,4,2,1,False
+Mon,17:00,17:50,Pendidikan Teknologi Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.1,F,2,Kelas,100,3,1,False
+Mon,17:00,17:50,Sistem Informasi,CIS61108,D,Rekayasa Sistem Informasi,lecture,F2.2,F,2,Kelas,108,5,1,False
+Mon,17:00,17:50,Teknologi Informasi,UBU60003,B,Kewirausahaan,lecture,F2.5,F,2,Kelas,47,2,1,False
+Mon,17:00,17:50,Sistem Informasi,CIS61104,D,Pengantar Sistem informasi,lecture,F2.8,F,2,Kelas,102,2,1,False
+Mon,17:00,17:50,Pendidikan Teknologi Informasi,COM60061,C,Capstone Project,lecture,F3.1,F,3,Kelas,40,3,1,False
+Mon,17:00,17:50,Pendidikan Teknologi Informasi,CIE61102,B,Filsafat Pendidikan dan Sains,lecture,F3.10,F,3,Kelas,103,4,1,False
+Mon,17:00,17:50,Teknologi Informasi,COM60052,D,Etika Profesi,lecture,F3.15,F,3,Kelas,96,2,1,False
+Mon,17:00,17:50,Teknologi Informasi,CSD60707,A,Big Data dan Analitik,lecture,F3.16,F,3,Kelas,52,3,0,False
+Mon,17:00,17:50,Sistem Informasi,CIS61112,B,Dasar Manajemen Proyek,lecture,F3.17,F,3,Kelas,6,2,1,False
+Mon,17:00,17:50,Sistem Informasi,COM60052,C,Etika Profesi,lecture,F3.7a,F,3,Kelas,87,2,1,False
+Mon,17:00,17:50,Pendidikan Teknologi Informasi,CIE61111,C,Pengenalan Lapangan Persekolahan 1,lecture,F3.7b,F,3,Kelas,39,1,1,False
+Mon,17:00,17:50,Teknologi Informasi,CIT61006,B,Pengembangan Aplikasi Web,lecture,F3.9,F,3,Kelas,47,4,1,False
+Mon,17:00,17:50,Pendidikan Teknologi Informasi,COM60061,D,Capstone Project,lecture,F4.13,F,4,Kelas,76,3,1,False
+Mon,17:00,17:50,Sistem Informasi,COM60016,D,Pengantar Keilmuan Komputer,lecture,F4.14,F,4,Kelas,83,2,1,False
+Mon,17:00,17:50,Teknologi Informasi,CIT61026,B,Internet of Things,practicum,G1.7,G,1,Lab,17,4,1,False
+Thu,07:00,07:50,Sistem Informasi,COM60014,D,Pemrograman Dasar,lecture,F11.1,F,11,Kelas,67,5,1,False
+Thu,07:00,07:50,Pendidikan Teknologi Informasi,CIE61301,A,Kalkulus dan Aljabar Linear,lecture,F2.1,F,2,Kelas,103,3,1,False
+Thu,07:00,07:50,Sistem Informasi,COM60016,B,Pengantar Keilmuan Komputer,lecture,F2.6,F,2,Kelas,4,2,1,False
+Thu,07:00,07:50,Sistem Informasi,CIS61111,A,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F3.10,F,3,Kelas,87,2,1,False
+Thu,07:00,07:50,Teknologi Informasi,COM60061,C,Capstone Project,lecture,F3.16,F,3,Kelas,47,3,1,False
+Thu,07:00,07:50,Sistem Informasi,COM60016,C,Pengantar Keilmuan Komputer,lecture,F3.17,F,3,Kelas,108,2,1,False
+Thu,07:00,07:50,Teknologi Informasi,CIT60045,A,Kriptografi,lecture,F3.5b,F,3,Kelas,14,3,0,False
+Thu,07:00,07:50,Sistem Informasi,CIS61102,C,Infrastruktur Teknologi Informasi,lecture,F3.7a,F,3,Kelas,17,2,1,False
+Thu,07:00,07:50,Sistem Informasi,CSD60711,D,Perancangan Pengalaman Pengguna,lecture,F4.6,F,4,Kelas,62,3,1,False
+Thu,07:00,07:50,Teknologi Informasi,CIT61024,C,Teknologi Keamanan Siber,lecture,F4.7,F,4,Kelas,75,3,1,False
+Thu,07:00,07:50,Sistem Informasi,CSD60705,B,Pemrograman SQL,practicum,G1.2,G,1,Lab,72,3,1,False
+Thu,07:00,07:50,Teknologi Informasi,CIT61015,A,Jaringan Komputer,practicum,G1.4,G,1,Lab,79,4,1,False
+Thu,07:00,07:50,Sistem Informasi,CSD60705,D,Pemrograman SQL,practicum,G1.5,G,1,Lab,102,3,1,False
+Thu,07:50,08:40,Pendidikan Teknologi Informasi,UBU60003,D,Kewirausahaan,lecture,F2.2,F,2,Kelas,62,2,1,False
+Thu,07:50,08:40,Pendidikan Teknologi Informasi,CSD60708,B,Penambangan Data,lecture,F2.9,F,2,Kelas,102,3,1,False
+Thu,07:50,08:40,Sistem Informasi,CIS61106,D,Keamanan dan Privasi Data,lecture,F3.10,F,3,Kelas,17,2,1,False
+Thu,07:50,08:40,Sistem Informasi,COM60061,A,Capstone Project,lecture,F3.6,F,3,Kelas,47,3,1,False
+Thu,07:50,08:40,Sistem Informasi,CSD60703,C,Tata Kelola Teknologi Informasi,lecture,F3.9,F,3,Kelas,108,3,1,False
+Thu,07:50,08:40,Pendidikan Teknologi Informasi,CIE61110,A,Perancangan Pembelajaran,lecture,F4.12,F,4,Kelas,39,3,1,False
+Thu,07:50,08:40,Teknologi Informasi,CIT61016,D,Data Sains,lecture,F4.2,F,4,Kelas,89,3,1,False
+Thu,07:50,08:40,Pendidikan Teknologi Informasi,COM60015,A,Matematika Diskret,lecture,F4.3,F,4,Kelas,103,2,1,False
+Thu,07:50,08:40,Teknologi Informasi,CSD60703,C,Tata Kelola Teknologi Informasi,lecture,F4.5,F,4,Kelas,6,3,1,False
+Thu,07:50,08:40,Teknologi Informasi,CIT61006,A,Pengembangan Aplikasi Web,lecture,F4.7,F,4,Kelas,4,4,1,False
+Thu,07:50,08:40,Pendidikan Teknologi Informasi,CIE61109,D,Pembelajaran Mikro,practicum,G1.3,G,1,Lab,100,3,1,False
+Thu,07:50,08:40,Teknologi Informasi,CIT61006,C,Pengembangan Aplikasi Web,practicum,G1.5,G,1,Lab,105,4,1,False
+Thu,08:40,09:30,Pendidikan Teknologi Informasi,CIE62204,B,Paradigma Sistem,lecture,F11.1,F,11,Kelas,6,2,1,False
+Thu,08:40,09:30,Teknologi Informasi,CIT61026,D,Internet of Things,lecture,F11.4,F,11,Kelas,96,4,1,False
+Thu,08:40,09:30,Teknologi Informasi,CSD60710,A,Sistem Informasi Geografis,lecture,F2.9,F,2,Kelas,11,3,0,False
+Thu,08:40,09:30,Pendidikan Teknologi Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,lecture,F3.10,F,3,Kelas,22,3,0,False
+Thu,08:40,09:30,Pendidikan Teknologi Informasi,CIE61403,A,Paradigma Berpikir Sistem dan Desain,lecture,F3.12,F,3,Kelas,47,3,0,False
+Thu,08:40,09:30,Pendidikan Teknologi Informasi,CIE61112,C,Pengenalan Lapangan Persekolahan 2,lecture,F3.15,F,3,Kelas,39,3,1,False
+Thu,08:40,09:30,Pendidikan Teknologi Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.17,F,3,Kelas,100,3,1,False
+Thu,08:40,09:30,Sistem Informasi,COM60015,B,Matematika Diskret,lecture,F3.3,F,3,Kelas,103,2,1,False
+Thu,08:40,09:30,Sistem Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,lecture,F3.4,F,3,Kelas,47,3,1,False
+Thu,08:40,09:30,Sistem Informasi,UBU60003,A,Kewirausahaan,lecture,F3.7a,F,3,Kelas,87,2,1,False
+Thu,08:40,09:30,Teknologi Informasi,CIT61016,A,Data Sains,lecture,F4.11,F,4,Kelas,15,3,1,False
+Thu,08:40,09:30,Pendidikan Teknologi Informasi,COM60014,D,Pemrograman Dasar,lecture,F4.7,F,4,Kelas,75,5,1,False
+Thu,08:40,09:30,Teknologi Informasi,CIT61006,A,Pengembangan Aplikasi Web,lecture,F4.9,F,4,Kelas,4,4,1,False
+Thu,08:40,09:30,Teknologi Informasi,CSD60705,B,Pemrograman SQL,practicum,G1.5,G,1,Lab,60,3,1,False
+Thu,09:30,10:20,Teknologi Informasi,COM60016,A,Pengantar Keilmuan Komputer,lecture,F11.4,F,11,Kelas,47,2,1,False
+Thu,09:30,10:20,Pendidikan Teknologi Informasi,COM60014,D,Pemrograman Dasar,lecture,F2.1,F,2,Kelas,75,5,1,False
+Thu,09:30,10:20,Teknologi Informasi,CSD60707,A,Big Data dan Analitik,lecture,F2.2,F,2,Kelas,52,3,0,False
+Thu,09:30,10:20,Sistem Informasi,CSD60701,A,Manajemen Layanan Teknologi Informasi,lecture,F2.4,F,2,Kelas,94,2,0,False
+Thu,09:30,10:20,Pendidikan Teknologi Informasi,CIE61102,B,Filsafat Pendidikan dan Sains,lecture,F3.12,F,3,Kelas,103,4,1,False
+Thu,09:30,10:20,Teknologi Informasi,CSD60704,D,Desain Basis Data,lecture,F3.13,F,3,Kelas,16,2,1,False
+Thu,09:30,10:20,Teknologi Informasi,CIT61024,A,Teknologi Keamanan Siber,lecture,F3.15,F,3,Kelas,17,3,1,False
+Thu,09:30,10:20,Sistem Informasi,CIS61110,C,Pengembangan Aplikasi Mobile,lecture,F3.17,F,3,Kelas,31,3,1,False
+Thu,09:30,10:20,Sistem Informasi,CIS61108,D,Rekayasa Sistem Informasi,lecture,F3.9,F,3,Kelas,108,5,1,False
+Thu,09:30,10:20,Sistem Informasi,UBU60003,D,Kewirausahaan,lecture,F4.12,F,4,Kelas,87,2,1,False
+Thu,09:30,10:20,Teknologi Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F4.4,F,4,Kelas,11,3,1,False
+Thu,09:30,10:20,Sistem Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,lecture,F4.7,F,4,Kelas,47,3,1,False
+Thu,09:30,10:20,Pendidikan Teknologi Informasi,CIE61109,C,Pembelajaran Mikro,practicum,G1.6,G,1,Lab,39,3,1,False
+Thu,09:30,10:20,Pendidikan Teknologi Informasi,CIE61109,D,Pembelajaran Mikro,practicum,G1.7,G,1,Lab,100,3,1,False
+Thu,09:30,10:20,Pendidikan Teknologi Informasi,CIE61208,A,Basis Data,practicum,G1.8,G,1,Lab,4,3,1,False
+Thu,10:20,11:10,Teknologi Informasi,CSD60707,A,Big Data dan Analitik,lecture,F11.1,F,11,Kelas,52,3,0,False
+Thu,10:20,11:10,Sistem Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F11.4,F,11,Kelas,87,3,1,False
+Thu,10:20,11:10,Pendidikan Teknologi Informasi,CIE61103,B,Komunikasi dan Teknologi Pendidikan,lecture,F3.14,F,3,Kelas,39,3,1,False
+Thu,10:20,11:10,Pendidikan Teknologi Informasi,CSD60708,A,Penambangan Data,lecture,F3.9,F,3,Kelas,102,3,1,False
+Thu,10:20,11:10,Pendidikan Teknologi Informasi,COM60016,B,Pengantar Keilmuan Komputer,lecture,F4.10,F,4,Kelas,4,2,1,False
+Thu,10:20,11:10,Pendidikan Teknologi Informasi,CIE61205,C,Pemrograman Web,practicum,G1.5,G,1,Lab,47,3,1,False
+Thu,10:20,11:10,Pendidikan Teknologi Informasi,CIE61205,A,Pemrograman Web,practicum,G1.6,G,1,Lab,103,3,1,False
+Thu,11:10,12:00,Pendidikan Teknologi Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F11.1,F,11,Kelas,107,3,1,False
+Thu,11:10,12:00,Sistem Informasi,CSD60702,A,Sistem Pendukung Keputusan,lecture,F2.8,F,2,Kelas,94,3,0,False
+Thu,11:10,12:00,Teknologi Informasi,CSD60705,A,Pemrograman SQL,lecture,F2.9,F,2,Kelas,102,3,1,False
+Thu,11:10,12:00,Sistem Informasi,COM60014,B,Pemrograman Dasar,lecture,F3.10,F,3,Kelas,4,5,1,False
+Thu,11:10,12:00,Pendidikan Teknologi Informasi,CIE61301,D,Kalkulus dan Aljabar Linear,lecture,F3.11,F,3,Kelas,103,3,1,False
+Thu,11:10,12:00,Sistem Informasi,CIS60106,A,Sistem Informasi Berkelanjutan,lecture,F3.13,F,3,Kelas,53,2,0,False
+Thu,11:10,12:00,Teknologi Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F3.14,F,3,Kelas,92,3,1,False
+Thu,11:10,12:00,Pendidikan Teknologi Informasi,COM60014,A,Pemrograman Dasar,lecture,F3.2,F,3,Kelas,47,5,1,False
+Thu,11:10,12:00,Sistem Informasi,CSD60706,D,Administrasi Basis Data,lecture,F4.12,F,4,Kelas,91,3,1,False
+Thu,11:10,12:00,Teknologi Informasi,CIT61024,C,Teknologi Keamanan Siber,lecture,F4.13,F,4,Kelas,75,3,1,False
+Thu,11:10,12:00,Sistem Informasi,CIS61120,A,Perbaikan Proses Bisnis,lecture,F4.2,F,4,Kelas,6,2,0,False
+Thu,11:10,12:00,Pendidikan Teknologi Informasi,CIE61103,D,Komunikasi dan Teknologi Pendidikan,lecture,F4.4,F,4,Kelas,39,3,1,False
+Thu,11:10,12:00,Sistem Informasi,CSD60705,C,Pemrograman SQL,lecture,F4.6,F,4,Kelas,73,3,1,False
+Thu,11:10,12:00,Teknologi Informasi,CIT61006,D,Pengembangan Aplikasi Web,practicum,G1.8,G,1,Lab,31,4,1,False
+Thu,12:00,12:50,Sistem Informasi,CIS61120,A,Perbaikan Proses Bisnis,lecture,F2.8,F,2,Kelas,6,2,0,False
+Thu,12:00,12:50,Pendidikan Teknologi Informasi,CSD60714,A,Jaminan Kualitas Perangkat Lunak,lecture,F2.9,F,2,Kelas,4,3,0,False
+Thu,12:00,12:50,Sistem Informasi,CIS61113,A,Sistem Enterprise,lecture,F3.11,F,3,Kelas,76,3,1,False
+Thu,12:00,12:50,Teknologi Informasi,COM60011,D,Arsitektur dan Organisasi Komputer,lecture,F3.12,F,3,Kelas,103,2,1,False
+Thu,12:00,12:50,Sistem Informasi,CIS61103,A,Manajemen Bisnis,lecture,F3.4,F,3,Kelas,87,2,1,False
+Thu,12:00,12:50,Pendidikan Teknologi Informasi,CSD60701,A,Manajemen Layanan Teknologi Informasi,lecture,F3.6,F,3,Kelas,108,3,0,False
+Thu,12:00,12:50,Pendidikan Teknologi Informasi,CIE61109,D,Pembelajaran Mikro,lecture,F3.7a,F,3,Kelas,100,3,1,False
+Thu,12:00,12:50,Teknologi Informasi,CIT61016,B,Data Sains,lecture,F4.2,F,4,Kelas,89,3,1,False
+Thu,12:00,12:50,Pendidikan Teknologi Informasi,CIE61102,C,Filsafat Pendidikan dan Sains,lecture,F4.4,F,4,Kelas,59,4,1,False
+Thu,12:00,12:50,Sistem Informasi,CIS61110,B,Pengembangan Aplikasi Mobile,lecture,F4.6,F,4,Kelas,47,3,1,False
+Thu,12:00,12:50,Teknologi Informasi,CIT61006,A,Pengembangan Aplikasi Web,practicum,G1.4,G,1,Lab,4,4,1,False
+Thu,12:00,12:50,Sistem Informasi,CSD60705,A,Pemrograman SQL,practicum,G1.6,G,1,Lab,22,3,1,False
+Thu,12:00,12:50,Pendidikan Teknologi Informasi,CIE61206,B,Jaringan Komputer,practicum,G1.8,G,1,Lab,39,3,1,False
+Thu,12:00,12:50,Teknologi Informasi,CIT61026,A,Internet of Things,practicum,G1.9,G,1,Lab,90,4,1,False
+Thu,12:50,13:40,Sistem Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.2,F,2,Kelas,87,3,1,False
+Thu,12:50,13:40,Sistem Informasi,CIS61112,A,Dasar Manajemen Proyek,lecture,F2.4,F,2,Kelas,47,2,1,False
+Thu,12:50,13:40,Pendidikan Teknologi Informasi,CIE61113,A,Pengembangan Program Pelatihan Teknologi Informasi,lecture,F3.11,F,3,Kelas,59,3,0,False
+Thu,12:50,13:40,Sistem Informasi,CIS61106,C,Keamanan dan Privasi Data,lecture,F3.14,F,3,Kelas,108,2,1,False
+Thu,12:50,13:40,Pendidikan Teknologi Informasi,COM60052,B,Etika Profesi,lecture,F3.16,F,3,Kelas,4,2,1,False
+Thu,12:50,13:40,Teknologi Informasi,COM60011,A,Arsitektur dan Organisasi Komputer,lecture,F3.3,F,3,Kelas,103,2,1,False
+Thu,12:50,13:40,Teknologi Informasi,CIT61026,A,Internet of Things,lecture,F3.5b,F,3,Kelas,90,4,1,False
+Thu,12:50,13:40,Pendidikan Teknologi Informasi,COM60014,C,Pemrograman Dasar,lecture,F3.6,F,3,Kelas,67,5,1,False
+Thu,12:50,13:40,Sistem Informasi,CIS61113,C,Sistem Enterprise,lecture,F3.8,F,3,Kelas,76,3,1,False
+Thu,12:50,13:40,Pendidikan Teknologi Informasi,CIE61110,D,Perancangan Pembelajaran,lecture,F4.12,F,4,Kelas,39,3,1,False
+Thu,12:50,13:40,Teknologi Informasi,CSD60703,A,Tata Kelola Teknologi Informasi,lecture,F4.13,F,4,Kelas,6,3,1,False
+Thu,12:50,13:40,Teknologi Informasi,CSD60706,A,Administrasi Basis Data,lecture,F4.3,F,4,Kelas,102,3,0,False
+Thu,12:50,13:40,Teknologi Informasi,COM60014,D,Pemrograman Dasar,practicum,G1.2,G,1,Lab,75,5,1,False
+Thu,12:50,13:40,Teknologi Informasi,CIT60044,A,Keamanan Data dan Privasi,practicum,G1.5,G,1,Lab,46,3,0,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,COM60016,D,Pengantar Keilmuan Komputer,lecture,F2.2,F,2,Kelas,90,2,1,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CIE61301,B,Kalkulus dan Aljabar Linear,lecture,F2.5,F,2,Kelas,100,3,1,False
+Thu,13:40,14:30,Sistem Informasi,CIS60106,A,Sistem Informasi Berkelanjutan,lecture,F2.9,F,2,Kelas,53,2,0,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CSD60714,A,Jaminan Kualitas Perangkat Lunak,lecture,F3.10,F,3,Kelas,4,3,0,False
+Thu,13:40,14:30,Sistem Informasi,CIS61115,D,Komunikasi Profesional,lecture,F3.13,F,3,Kelas,108,2,1,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CSD60708,D,Penambangan Data,lecture,F3.14,F,3,Kelas,102,3,1,False
+Thu,13:40,14:30,Teknologi Informasi,CSD60713,A,Jaringan Terapan,lecture,F3.15,F,3,Kelas,79,3,0,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CIE61208,D,Basis Data,lecture,F3.16,F,3,Kelas,91,3,1,False
+Thu,13:40,14:30,Teknologi Informasi,CIT60042,A,Teknologi Blockchain dan Platform Keuangan Digital,lecture,F3.17,F,3,Kelas,14,2,0,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,COM60052,B,Etika Profesi,lecture,F3.2,F,3,Kelas,4,2,1,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,COM60015,A,Matematika Diskret,lecture,F3.5a,F,3,Kelas,103,2,1,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CIE62204,A,Paradigma Sistem,lecture,F3.8,F,3,Kelas,6,2,1,False
+Thu,13:40,14:30,Teknologi Informasi,CSD60708,A,Penambangan Data,lecture,F4.12,F,4,Kelas,92,3,0,False
+Thu,13:40,14:30,Teknologi Informasi,CIT60051,A,Teknologi Smart City,lecture,F4.4,F,4,Kelas,47,2,0,False
+Thu,13:40,14:30,Sistem Informasi,CIS61123,A,Enterprise Architecture II,practicum,G1.2,G,1,Lab,76,3,0,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CIE61206,A,Jaringan Komputer,practicum,G1.6,G,1,Lab,17,3,1,False
+Thu,13:40,14:30,Pendidikan Teknologi Informasi,CIE61109,A,Pembelajaran Mikro,practicum,G1.8,G,1,Lab,39,3,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,CIE61108,C,Penilaian Hasil Belajar,lecture,F11.1,F,11,Kelas,100,3,1,False
+Thu,14:30,15:20,Teknologi Informasi,CIT61015,B,Jaringan Komputer,lecture,F3.11,F,3,Kelas,17,4,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,CSD60708,A,Penambangan Data,lecture,F3.17,F,3,Kelas,102,3,1,False
+Thu,14:30,15:20,Teknologi Informasi,CSD60704,C,Desain Basis Data,lecture,F3.18,F,3,Kelas,1,2,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,UBU60003,C,Kewirausahaan,lecture,F3.7a,F,3,Kelas,62,2,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,COM60061,A,Capstone Project,lecture,F3.8,F,3,Kelas,4,3,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F4.12,F,4,Kelas,92,3,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,CIE61101,A,Perkembangan Peserta Didik,lecture,F4.3,F,4,Kelas,39,3,1,False
+Thu,14:30,15:20,Sistem Informasi,CIS61104,A,Pengantar Sistem informasi,lecture,F4.6,F,4,Kelas,47,2,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,CIE61208,C,Basis Data,practicum,G1.5,G,1,Lab,75,3,1,False
+Thu,14:30,15:20,Pendidikan Teknologi Informasi,CIE61205,A,Pemrograman Web,practicum,G1.8,G,1,Lab,103,3,1,False
+Thu,15:20,16:10,Teknologi Informasi,CIT61024,B,Teknologi Keamanan Siber,lecture,F11.1,F,11,Kelas,35,3,1,False
+Thu,15:20,16:10,Sistem Informasi,CIS61102,B,Infrastruktur Teknologi Informasi,lecture,F11.4,F,11,Kelas,103,2,1,False
+Thu,15:20,16:10,Pendidikan Teknologi Informasi,COM60014,B,Pemrograman Dasar,lecture,F2.1,F,2,Kelas,4,5,1,False
+Thu,15:20,16:10,Pendidikan Teknologi Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.11,F,3,Kelas,100,3,1,False
+Thu,15:20,16:10,Pendidikan Teknologi Informasi,CIE61102,C,Filsafat Pendidikan dan Sains,lecture,F3.16,F,3,Kelas,59,4,1,False
+Thu,15:20,16:10,Teknologi Informasi,CSD60703,A,Tata Kelola Teknologi Informasi,lecture,F3.3,F,3,Kelas,6,3,1,False
+Thu,15:20,16:10,Sistem Informasi,CIS61107,D,Manajemen Produk,lecture,F3.6,F,3,Kelas,60,3,1,False
+Thu,15:20,16:10,Teknologi Informasi,COM60016,A,Pengantar Keilmuan Komputer,lecture,F3.7a,F,3,Kelas,47,2,1,False
+Thu,15:20,16:10,Teknologi Informasi,CIT61016,D,Data Sains,lecture,F4.14,F,4,Kelas,89,3,1,False
+Thu,15:20,16:10,Pendidikan Teknologi Informasi,CSD60701,A,Manajemen Layanan Teknologi Informasi,lecture,F4.2,F,4,Kelas,108,3,0,False
+Thu,15:20,16:10,Pendidikan Teknologi Informasi,CIE61111,B,Pengenalan Lapangan Persekolahan 1,lecture,F4.3,F,4,Kelas,39,1,1,False
+Thu,15:20,16:10,Teknologi Informasi,CSD60710,A,Sistem Informasi Geografis,practicum,G1.2,G,1,Lab,11,3,0,False
+Thu,15:20,16:10,Teknologi Informasi,CIT60044,A,Keamanan Data dan Privasi,practicum,G1.7,G,1,Lab,46,3,0,False
+Thu,16:10,17:00,Sistem Informasi,CIS61118,A,Rekayasa Kebutuhan Sistem Informasi,lecture,F2.1,F,2,Kelas,4,2,0,False
+Thu,16:10,17:00,Teknologi Informasi,CIT61016,A,Data Sains,lecture,F2.5,F,2,Kelas,15,3,1,False
+Thu,16:10,17:00,Teknologi Informasi,COM60061,A,Capstone Project,lecture,F3.14,F,3,Kelas,14,3,1,False
+Thu,16:10,17:00,Teknologi Informasi,CIT61016,B,Data Sains,lecture,F3.15,F,3,Kelas,89,3,1,False
+Thu,16:10,17:00,Sistem Informasi,UBU60003,D,Kewirausahaan,lecture,F3.17,F,3,Kelas,87,2,1,False
+Thu,16:10,17:00,Sistem Informasi,CIS61108,C,Rekayasa Sistem Informasi,lecture,F3.2,F,3,Kelas,67,5,1,False
+Thu,16:10,17:00,Sistem Informasi,CSD60711,D,Perancangan Pengalaman Pengguna,lecture,F3.5a,F,3,Kelas,62,3,1,False
+Thu,16:10,17:00,Pendidikan Teknologi Informasi,CIE61108,A,Penilaian Hasil Belajar,lecture,F3.5b,F,3,Kelas,100,3,1,False
+Thu,16:10,17:00,Teknologi Informasi,CIT61006,B,Pengembangan Aplikasi Web,lecture,F3.8,F,3,Kelas,47,4,1,False
+Thu,16:10,17:00,Teknologi Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.10,F,4,Kelas,103,3,1,False
+Thu,16:10,17:00,Pendidikan Teknologi Informasi,CIE61110,B,Perancangan Pembelajaran,lecture,F4.13,F,4,Kelas,39,3,1,False
+Thu,16:10,17:00,Teknologi Informasi,COM60061,D,Capstone Project,lecture,F4.14,F,4,Kelas,22,3,1,False
+Thu,16:10,17:00,Pendidikan Teknologi Informasi,CIE61205,D,Pemrograman Web,practicum,G1.7,G,1,Lab,75,3,1,False
+Thu,17:00,17:50,Sistem Informasi,CIS60101,A,Perkembangan dan Tren Teknologi Digital,lecture,F11.1,F,11,Kelas,94,2,0,False
+Thu,17:00,17:50,Teknologi Informasi,CIT60049,A,Teknologi Basis Data Non Relational,lecture,F3.10,F,3,Kelas,102,3,0,False
+Thu,17:00,17:50,Sistem Informasi,CSD60710,A,Sistem Informasi Geografis,lecture,F3.11,F,3,Kelas,87,3,0,False
+Thu,17:00,17:50,Pendidikan Teknologi Informasi,CIE61103,D,Komunikasi dan Teknologi Pendidikan,lecture,F3.15,F,3,Kelas,39,3,1,False
+Thu,17:00,17:50,Teknologi Informasi,COM60061,B,Capstone Project,lecture,F3.17,F,3,Kelas,4,3,1,False
+Thu,17:00,17:50,Pendidikan Teknologi Informasi,CIE61102,D,Filsafat Pendidikan dan Sains,lecture,F3.18,F,3,Kelas,103,4,1,False
+Thu,17:00,17:50,Teknologi Informasi,CIT61015,C,Jaringan Komputer,lecture,F3.2,F,3,Kelas,35,4,1,False
+Thu,17:00,17:50,Pendidikan Teknologi Informasi,CSD60702,A,Sistem Pendukung Keputusan,lecture,F3.3,F,3,Kelas,83,3,0,False
+Thu,17:00,17:50,Pendidikan Teknologi Informasi,CIE61108,B,Penilaian Hasil Belajar,lecture,F3.4,F,3,Kelas,100,3,1,False
+Thu,17:00,17:50,Sistem Informasi,CIS61128,A,Keamanan Jaringan dan Siber,lecture,F3.7b,F,3,Kelas,17,3,0,False
+Thu,17:00,17:50,Teknologi Informasi,CIT60052,A,Pengembangan Aplikasi Mobile Terapan,lecture,F4.10,F,4,Kelas,16,3,0,False
+Thu,17:00,17:50,Teknologi Informasi,CIT61006,B,Pengembangan Aplikasi Web,practicum,G1.5,G,1,Lab,47,4,1,False
+Thu,17:00,17:50,Sistem Informasi,CIS61108,D,Rekayasa Sistem Informasi,practicum,G1.8,G,1,Lab,108,5,1,False
+Tue,07:00,07:50,Teknologi Informasi,CIT60039,A,Pengembangan Aplikasi Web Lanjut,lecture,F11.1,F,11,Kelas,4,3,0,False
+Tue,07:00,07:50,Teknologi Informasi,COM60025,B,Kalkulus,lecture,F2.4,F,2,Kelas,75,2,1,False
+Tue,07:00,07:50,Pendidikan Teknologi Informasi,CIE61113,A,Pengembangan Program Pelatihan Teknologi Informasi,lecture,F3.15,F,3,Kelas,59,3,0,False
+Tue,07:00,07:50,Teknologi Informasi,CIT60031,A,Manajemen Proyek Teknologi Informasi,lecture,F3.3,F,3,Kelas,94,3,0,False
+Tue,07:00,07:50,Sistem Informasi,CIS61125,A,Pengantar GeoInformasi,lecture,F3.5a,F,3,Kelas,87,3,0,False
+Tue,07:00,07:50,Teknologi Informasi,UBU60003,C,Kewirausahaan,lecture,F3.7a,F,3,Kelas,62,2,1,False
+Tue,07:00,07:50,Pendidikan Teknologi Informasi,CIE61111,A,Pengenalan Lapangan Persekolahan 1,lecture,F3.8,F,3,Kelas,103,1,1,False
+Tue,07:00,07:50,Teknologi Informasi,COM60015,A,Matematika Diskret,lecture,F4.13,F,4,Kelas,100,2,1,False
+Tue,07:00,07:50,Sistem Informasi,COM60014,A,Pemrograman Dasar,lecture,F4.14,F,4,Kelas,47,5,1,False
+Tue,07:00,07:50,Sistem Informasi,CIS60103,A,Pemrograman Web Lanjut,lecture,F4.9,F,4,Kelas,1,3,0,False
+Tue,07:00,07:50,Teknologi Informasi,CIT61026,C,Internet of Things,practicum,G1.8,G,1,Lab,35,4,1,False
+Tue,07:50,08:40,Sistem Informasi,CIS61108,A,Rekayasa Sistem Informasi,lecture,F2.6,F,2,Kelas,4,5,1,False
+Tue,07:50,08:40,Pendidikan Teknologi Informasi,CIE61402,A,Paradigma Berpikir Komputasi,lecture,F3.10,F,3,Kelas,47,3,0,False
+Tue,07:50,08:40,Pendidikan Teknologi Informasi,CIE61205,A,Pemrograman Web,lecture,F3.12,F,3,Kelas,103,3,1,False
+Tue,07:50,08:40,Teknologi Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.17,F,3,Kelas,103,3,1,False
+Tue,07:50,08:40,Sistem Informasi,CSD60703,A,Tata Kelola Teknologi Informasi,lecture,F3.18,F,3,Kelas,6,3,1,False
+Tue,07:50,08:40,Pendidikan Teknologi Informasi,COM60014,C,Pemrograman Dasar,lecture,F3.3,F,3,Kelas,67,5,1,False
+Tue,07:50,08:40,Teknologi Informasi,CIT61024,D,Teknologi Keamanan Siber,lecture,F3.5b,F,3,Kelas,46,3,1,False
+Tue,07:50,08:40,Pendidikan Teknologi Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F3.6,F,3,Kelas,100,3,1,False
+Tue,07:50,08:40,Teknologi Informasi,COM60014,C,Pemrograman Dasar,lecture,F4.3,F,4,Kelas,31,5,1,False
+Tue,07:50,08:40,Teknologi Informasi,CIT60033,A,Sistem Forensik Digital,lecture,F4.7,F,4,Kelas,94,3,0,False
+Tue,07:50,08:40,Sistem Informasi,CSD60705,B,Pemrograman SQL,practicum,G1.4,G,1,Lab,72,3,1,False
+Tue,07:50,08:40,Teknologi Informasi,CIT61015,A,Jaringan Komputer,practicum,G1.5,G,1,Lab,79,4,1,False
+Tue,08:40,09:30,Teknologi Informasi,CIT60036,A,Teknologi Berbasis Cloud,lecture,F11.1,F,11,Kelas,16,3,0,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,CIE61301,C,Kalkulus dan Aljabar Linear,lecture,F11.3,F,11,Kelas,75,3,1,False
+Tue,08:40,09:30,Sistem Informasi,CSD60711,C,Perancangan Pengalaman Pengguna,lecture,F2.1,F,2,Kelas,60,3,1,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,CIE61108,D,Penilaian Hasil Belajar,lecture,F2.9,F,2,Kelas,100,3,1,False
+Tue,08:40,09:30,Sistem Informasi,COM60061,D,Capstone Project,lecture,F3.1,F,3,Kelas,108,3,1,False
+Tue,08:40,09:30,Teknologi Informasi,CIT62003,C,Dasar Pengembangan Sistem informasi,lecture,F3.17,F,3,Kelas,67,3,1,False
+Tue,08:40,09:30,Sistem Informasi,CSD60707,A,Big Data dan Analitik,lecture,F3.5a,F,3,Kelas,72,2,0,False
+Tue,08:40,09:30,Sistem Informasi,CIS61103,A,Manajemen Bisnis,lecture,F3.7b,F,3,Kelas,87,2,1,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,CIE61102,B,Filsafat Pendidikan dan Sains,lecture,F4.2,F,4,Kelas,103,4,1,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,CIE61101,D,Perkembangan Peserta Didik,lecture,F4.3,F,4,Kelas,39,3,1,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,UBU60003,D,Kewirausahaan,lecture,F4.6,F,4,Kelas,62,2,1,False
+Tue,08:40,09:30,Sistem Informasi,COM60014,A,Pemrograman Dasar,lecture,F4.7,F,4,Kelas,47,5,1,False
+Tue,08:40,09:30,Sistem Informasi,CSD60705,D,Pemrograman SQL,practicum,G1.3,G,1,Lab,102,3,1,False
+Tue,08:40,09:30,Teknologi Informasi,CIT61015,B,Jaringan Komputer,practicum,G1.5,G,1,Lab,17,4,1,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,practicum,G1.6,G,1,Lab,22,3,0,False
+Tue,08:40,09:30,Pendidikan Teknologi Informasi,CIE61205,B,Pemrograman Web,practicum,G1.7,G,1,Lab,4,3,1,False
+Tue,09:30,10:20,Teknologi Informasi,CIT60044,A,Keamanan Data dan Privasi,lecture,F2.2,F,2,Kelas,46,3,0,False
+Tue,09:30,10:20,Sistem Informasi,UBU60003,C,Kewirausahaan,lecture,F2.5,F,2,Kelas,62,2,1,False
+Tue,09:30,10:20,Sistem Informasi,COM60014,C,Pemrograman Dasar,lecture,F3.15,F,3,Kelas,31,5,1,False
+Tue,09:30,10:20,Pendidikan Teknologi Informasi,CIE62204,D,Paradigma Sistem,lecture,F3.7a,F,3,Kelas,6,2,1,False
+Tue,09:30,10:20,Sistem Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F4.13,F,4,Kelas,100,3,1,False
+Tue,09:30,10:20,Sistem Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.14,F,4,Kelas,103,3,1,False
+Tue,09:30,10:20,Sistem Informasi,COM60014,D,Pemrograman Dasar,lecture,F4.4,F,4,Kelas,67,5,1,False
+Tue,09:30,10:20,Teknologi Informasi,CSD60705,D,Pemrograman SQL,practicum,G1.2,G,1,Lab,102,3,1,False
+Tue,09:30,10:20,Teknologi Informasi,CIT62003,A,Dasar Pengembangan Sistem informasi,practicum,G1.3,G,1,Lab,4,3,1,False
+Tue,09:30,10:20,Teknologi Informasi,COM60014,D,Pemrograman Dasar,practicum,G1.6,G,1,Lab,75,5,1,False
+Tue,09:30,10:20,Pendidikan Teknologi Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,practicum,G1.7,G,1,Lab,22,3,0,False
+Tue,09:30,10:20,Pendidikan Teknologi Informasi,COM60014,A,Pemrograman Dasar,practicum,G1.8,G,1,Lab,47,5,1,False
+Tue,10:20,11:10,Pendidikan Teknologi Informasi,CIE61112,A,Pengenalan Lapangan Persekolahan 2,lecture,F2.1,F,2,Kelas,103,3,1,False
+Tue,10:20,11:10,Teknologi Informasi,COM60061,D,Capstone Project,lecture,F2.2,F,2,Kelas,22,3,1,False
+Tue,10:20,11:10,Pendidikan Teknologi Informasi,COM60061,A,Capstone Project,lecture,F2.8,F,2,Kelas,4,3,1,False
+Tue,10:20,11:10,Teknologi Informasi,CIT60048,A,Information Retrieval,lecture,F3.12,F,3,Kelas,52,2,0,False
+Tue,10:20,11:10,Teknologi Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.13,F,3,Kelas,16,3,1,False
+Tue,10:20,11:10,Pendidikan Teknologi Informasi,CIE61108,B,Penilaian Hasil Belajar,lecture,F3.17,F,3,Kelas,100,3,1,False
+Tue,10:20,11:10,Pendidikan Teknologi Informasi,CIE61403,A,Paradigma Berpikir Sistem dan Desain,lecture,F3.2,F,3,Kelas,47,3,0,False
+Tue,10:20,11:10,Sistem Informasi,CSD60703,D,Tata Kelola Teknologi Informasi,lecture,F3.8,F,3,Kelas,6,3,1,False
+Tue,10:20,11:10,Sistem Informasi,CIS61102,A,Infrastruktur Teknologi Informasi,lecture,F4.14,F,4,Kelas,17,2,1,False
+Tue,10:20,11:10,Pendidikan Teknologi Informasi,CIE61101,B,Perkembangan Peserta Didik,lecture,F4.6,F,4,Kelas,39,3,1,False
+Tue,10:20,11:10,Sistem Informasi,CIS61108,C,Rekayasa Sistem Informasi,practicum,G1.2,G,1,Lab,67,5,1,False
+Tue,10:20,11:10,Teknologi Informasi,CIT61015,C,Jaringan Komputer,practicum,G1.5,G,1,Lab,35,4,1,False
+Tue,11:10,12:00,Teknologi Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.1,F,2,Kelas,103,3,1,False
+Tue,11:10,12:00,Sistem Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.5,F,2,Kelas,100,3,1,False
+Tue,11:10,12:00,Teknologi Informasi,CIT60039,A,Pengembangan Aplikasi Web Lanjut,lecture,F3.1,F,3,Kelas,4,3,0,False
+Tue,11:10,12:00,Sistem Informasi,COM60061,B,Capstone Project,lecture,F3.11,F,3,Kelas,87,3,1,False
+Tue,11:10,12:00,Pendidikan Teknologi Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F3.2,F,3,Kelas,92,3,1,False
+Tue,11:10,12:00,Pendidikan Teknologi Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.6,F,3,Kelas,11,3,1,False
+Tue,11:10,12:00,Sistem Informasi,CIS61104,A,Pengantar Sistem informasi,lecture,F3.9,F,3,Kelas,47,2,1,False
+Tue,11:10,12:00,Sistem Informasi,CSD60706,C,Administrasi Basis Data,practicum,G1.7,G,1,Lab,75,3,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,COM60014,C,Pemrograman Dasar,lecture,F11.3,F,11,Kelas,67,5,1,False
+Tue,12:00,12:50,Sistem Informasi,COM60061,C,Capstone Project,lecture,F11.4,F,11,Kelas,4,3,1,False
+Tue,12:00,12:50,Sistem Informasi,CIS61111,C,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F2.4,F,2,Kelas,108,2,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,CIE62204,C,Paradigma Sistem,lecture,F2.8,F,2,Kelas,6,2,1,False
+Tue,12:00,12:50,Teknologi Informasi,UBU60003,C,Kewirausahaan,lecture,F3.1,F,3,Kelas,62,2,1,False
+Tue,12:00,12:50,Teknologi Informasi,COM60061,D,Capstone Project,lecture,F3.13,F,3,Kelas,22,3,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,CIE61101,C,Perkembangan Peserta Didik,lecture,F3.17,F,3,Kelas,59,3,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,COM60015,C,Matematika Diskret,lecture,F3.2,F,3,Kelas,103,2,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,CIE61114,A,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,F3.5a,F,3,Kelas,39,3,0,False
+Tue,12:00,12:50,Teknologi Informasi,COM60014,D,Pemrograman Dasar,lecture,F3.7a,F,3,Kelas,75,5,1,False
+Tue,12:00,12:50,Teknologi Informasi,CIT61016,A,Data Sains,lecture,F3.7b,F,3,Kelas,15,3,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,COM60015,D,Matematika Diskret,lecture,F3.9,F,3,Kelas,100,2,1,False
+Tue,12:00,12:50,Sistem Informasi,CIS61103,C,Manajemen Bisnis,lecture,F4.12,F,4,Kelas,87,2,1,False
+Tue,12:00,12:50,Pendidikan Teknologi Informasi,CIE61402,A,Paradigma Berpikir Komputasi,lecture,F4.2,F,4,Kelas,47,3,0,False
+Tue,12:00,12:50,Teknologi Informasi,CIT61026,B,Internet of Things,lecture,F4.6,F,4,Kelas,17,4,1,False
+Tue,12:00,12:50,Teknologi Informasi,COM60016,D,Pengantar Keilmuan Komputer,lecture,F4.7,F,4,Kelas,90,2,1,False
+Tue,12:00,12:50,Teknologi Informasi,COM60014,C,Pemrograman Dasar,practicum,G1.6,G,1,Lab,31,5,1,False
+Tue,12:00,12:50,Teknologi Informasi,CIT61026,D,Internet of Things,practicum,G1.7,G,1,Lab,96,4,1,False
+Tue,12:50,13:40,Teknologi Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F2.1,F,2,Kelas,107,3,1,False
+Tue,12:50,13:40,Teknologi Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F3.10,F,3,Kelas,11,3,1,False
+Tue,12:50,13:40,Teknologi Informasi,CIT61026,C,Internet of Things,lecture,F3.14,F,3,Kelas,35,4,1,False
+Tue,12:50,13:40,Teknologi Informasi,CSD60705,B,Pemrograman SQL,lecture,F3.15,F,3,Kelas,60,3,1,False
+Tue,12:50,13:40,Teknologi Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F3.17,F,3,Kelas,92,3,1,False
+Tue,12:50,13:40,Pendidikan Teknologi Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.5a,F,3,Kelas,100,3,1,False
+Tue,12:50,13:40,Pendidikan Teknologi Informasi,CIE61112,C,Pengenalan Lapangan Persekolahan 2,lecture,F3.7b,F,3,Kelas,39,3,1,False
+Tue,12:50,13:40,Teknologi Informasi,CIT61015,D,Jaringan Komputer,lecture,F3.9,F,3,Kelas,75,4,1,False
+Tue,12:50,13:40,Sistem Informasi,COM60061,D,Capstone Project,lecture,F4.12,F,4,Kelas,108,3,1,False
+Tue,12:50,13:40,Pendidikan Teknologi Informasi,CIE61103,C,Komunikasi dan Teknologi Pendidikan,lecture,F4.7,F,4,Kelas,103,3,1,False
+Tue,12:50,13:40,Sistem Informasi,CIS61108,B,Rekayasa Sistem Informasi,practicum,G1.2,G,1,Lab,47,5,1,False
+Tue,12:50,13:40,Sistem Informasi,COM60014,D,Pemrograman Dasar,practicum,G1.7,G,1,Lab,67,5,1,False
+Tue,12:50,13:40,Teknologi Informasi,CIT61026,B,Internet of Things,practicum,G1.8,G,1,Lab,17,4,1,False
+Tue,12:50,13:40,Sistem Informasi,COM60014,B,Pemrograman Dasar,practicum,G1.9,G,1,Lab,4,5,1,False
+Tue,13:40,14:30,Sistem Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F11.1,F,11,Kelas,87,3,1,False
+Tue,13:40,14:30,Sistem Informasi,CIS61124,A,Pengembangan Gim,lecture,F11.3,F,11,Kelas,47,2,0,False
+Tue,13:40,14:30,Pendidikan Teknologi Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.11,F,3,Kelas,100,3,1,False
+Tue,13:40,14:30,Pendidikan Teknologi Informasi,CSD60713,A,Jaringan Terapan,lecture,F3.14,F,3,Kelas,17,3,0,False
+Tue,13:40,14:30,Sistem Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,lecture,F3.17,F,3,Kelas,47,3,1,False
+Tue,13:40,14:30,Pendidikan Teknologi Informasi,CIE61112,D,Pengenalan Lapangan Persekolahan 2,lecture,F3.2,F,3,Kelas,59,3,1,False
+Tue,13:40,14:30,Teknologi Informasi,CSD60703,B,Tata Kelola Teknologi Informasi,lecture,F3.3,F,3,Kelas,15,3,1,False
+Tue,13:40,14:30,Teknologi Informasi,COM60025,C,Kalkulus,lecture,F3.4,F,3,Kelas,103,2,1,False
+Tue,13:40,14:30,Sistem Informasi,CSD60703,A,Tata Kelola Teknologi Informasi,lecture,F3.5a,F,3,Kelas,6,3,1,False
+Tue,13:40,14:30,Sistem Informasi,CIS61108,A,Rekayasa Sistem Informasi,lecture,F3.7a,F,3,Kelas,4,5,1,False
+Tue,13:40,14:30,Pendidikan Teknologi Informasi,CIE61206,B,Jaringan Komputer,lecture,F4.14,F,4,Kelas,39,3,1,False
+Tue,13:40,14:30,Teknologi Informasi,CIT62003,D,Dasar Pengembangan Sistem informasi,practicum,G1.2,G,1,Lab,108,3,1,False
+Tue,13:40,14:30,Teknologi Informasi,CIT61015,D,Jaringan Komputer,practicum,G1.3,G,1,Lab,75,4,1,False
+Tue,13:40,14:30,Teknologi Informasi,CSD60705,A,Pemrograman SQL,practicum,G1.8,G,1,Lab,102,3,1,False
+Tue,14:30,15:20,Teknologi Informasi,CSD60704,C,Desain Basis Data,lecture,F11.4,F,11,Kelas,1,2,1,False
+Tue,14:30,15:20,Sistem Informasi,CIS61103,B,Manajemen Bisnis,lecture,F2.1,F,2,Kelas,108,2,1,False
+Tue,14:30,15:20,Pendidikan Teknologi Informasi,COM60015,B,Matematika Diskret,lecture,F2.9,F,2,Kelas,100,2,1,False
+Tue,14:30,15:20,Sistem Informasi,COM60061,A,Capstone Project,lecture,F3.1,F,3,Kelas,47,3,1,False
+Tue,14:30,15:20,Sistem Informasi,CIS61108,A,Rekayasa Sistem Informasi,lecture,F3.10,F,3,Kelas,4,5,1,False
+Tue,14:30,15:20,Pendidikan Teknologi Informasi,CIE61301,A,Kalkulus dan Aljabar Linear,lecture,F3.11,F,3,Kelas,103,3,1,False
+Tue,14:30,15:20,Teknologi Informasi,CIT61006,D,Pengembangan Aplikasi Web,lecture,F3.12,F,3,Kelas,31,4,1,False
+Tue,14:30,15:20,Pendidikan Teknologi Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.13,F,3,Kelas,11,3,1,False
+Tue,14:30,15:20,Sistem Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F3.3,F,3,Kelas,83,3,1,False
+Tue,14:30,15:20,Teknologi Informasi,COM60052,B,Etika Profesi,lecture,F4.10,F,4,Kelas,96,2,1,False
+Tue,14:30,15:20,Teknologi Informasi,CSD60708,A,Penambangan Data,lecture,F4.13,F,4,Kelas,92,3,0,False
+Tue,14:30,15:20,Teknologi Informasi,CIT61016,D,Data Sains,lecture,F4.14,F,4,Kelas,89,3,1,False
+Tue,14:30,15:20,Teknologi Informasi,CIT61006,C,Pengembangan Aplikasi Web,lecture,F4.2,F,4,Kelas,105,4,1,False
+Tue,14:30,15:20,Pendidikan Teknologi Informasi,CSD60708,C,Penambangan Data,lecture,F4.4,F,4,Kelas,102,3,1,False
+Tue,14:30,15:20,Pendidikan Teknologi Informasi,COM60014,D,Pemrograman Dasar,practicum,G1.3,G,1,Lab,75,5,1,False
+Tue,14:30,15:20,Sistem Informasi,CIS61125,A,Pengantar GeoInformasi,practicum,G1.6,G,1,Lab,87,3,0,False
+Tue,15:20,16:10,Teknologi Informasi,COM60025,B,Kalkulus,lecture,F11.1,F,11,Kelas,75,2,1,False
+Tue,15:20,16:10,Sistem Informasi,CIS61107,A,Manajemen Produk,lecture,F2.2,F,2,Kelas,47,3,1,False
+Tue,15:20,16:10,Pendidikan Teknologi Informasi,UBU60003,A,Kewirausahaan,lecture,F2.4,F,2,Kelas,62,2,1,False
+Tue,15:20,16:10,Teknologi Informasi,CIT62003,A,Dasar Pengembangan Sistem informasi,lecture,F2.5,F,2,Kelas,4,3,1,False
+Tue,15:20,16:10,Sistem Informasi,CIS60105,A,Strategi Transformasi Digital,lecture,F3.1,F,3,Kelas,53,2,0,False
+Tue,15:20,16:10,Teknologi Informasi,CSD60704,D,Desain Basis Data,lecture,F3.10,F,3,Kelas,16,2,1,False
+Tue,15:20,16:10,Sistem Informasi,CIS61113,D,Sistem Enterprise,lecture,F3.11,F,3,Kelas,76,3,1,False
+Tue,15:20,16:10,Teknologi Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,lecture,F3.16,F,3,Kelas,22,3,0,False
+Tue,15:20,16:10,Teknologi Informasi,CIT61024,B,Teknologi Keamanan Siber,lecture,F3.18,F,3,Kelas,35,3,1,False
+Tue,15:20,16:10,Sistem Informasi,COM60015,A,Matematika Diskret,lecture,F3.7a,F,3,Kelas,100,2,1,False
+Tue,15:20,16:10,Pendidikan Teknologi Informasi,CSD60708,B,Penambangan Data,lecture,F3.7b,F,3,Kelas,102,3,1,False
+Tue,15:20,16:10,Teknologi Informasi,COM60014,C,Pemrograman Dasar,lecture,F4.10,F,4,Kelas,31,5,1,False
+Tue,15:20,16:10,Pendidikan Teknologi Informasi,CIE61103,A,Komunikasi dan Teknologi Pendidikan,lecture,F4.12,F,4,Kelas,103,3,1,False
+Tue,15:20,16:10,Pendidikan Teknologi Informasi,CIE61110,A,Perancangan Pembelajaran,lecture,F4.3,F,4,Kelas,39,3,1,False
+Tue,15:20,16:10,Pendidikan Teknologi Informasi,CIE61208,B,Basis Data,practicum,G1.4,G,1,Lab,60,3,1,False
+Tue,15:20,16:10,Teknologi Informasi,CIT62003,C,Dasar Pengembangan Sistem informasi,practicum,G1.7,G,1,Lab,67,3,1,False
+Tue,16:10,17:00,Sistem Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F11.3,F,11,Kelas,103,3,1,False
+Tue,16:10,17:00,Sistem Informasi,CIS61123,A,Enterprise Architecture II,lecture,F3.10,F,3,Kelas,76,3,0,False
+Tue,16:10,17:00,Teknologi Informasi,CIT61015,C,Jaringan Komputer,lecture,F3.12,F,3,Kelas,35,4,1,False
+Tue,16:10,17:00,Pendidikan Teknologi Informasi,COM60016,A,Pengantar Keilmuan Komputer,lecture,F3.13,F,3,Kelas,47,2,1,False
+Tue,16:10,17:00,Sistem Informasi,COM60052,B,Etika Profesi,lecture,F3.5a,F,3,Kelas,4,2,1,False
+Tue,16:10,17:00,Pendidikan Teknologi Informasi,CIE61110,B,Perancangan Pembelajaran,lecture,F3.6,F,3,Kelas,39,3,1,False
+Tue,16:10,17:00,Pendidikan Teknologi Informasi,CIE61208,B,Basis Data,lecture,F4.10,F,4,Kelas,60,3,1,False
+Tue,16:10,17:00,Pendidikan Teknologi Informasi,COM60052,A,Etika Profesi,lecture,F4.11,F,4,Kelas,94,2,1,False
+Tue,16:10,17:00,Sistem Informasi,CIS61111,B,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F4.5,F,4,Kelas,89,2,1,False
+Tue,16:10,17:00,Teknologi Informasi,CIT60053,A,Pengembangan Gim,lecture,F4.6,F,4,Kelas,16,3,0,False
+Tue,16:10,17:00,Sistem Informasi,CSD60703,C,Tata Kelola Teknologi Informasi,lecture,F4.7,F,4,Kelas,108,3,1,False
+Tue,16:10,17:00,Teknologi Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,practicum,G1.4,G,1,Lab,22,3,0,False
+Tue,16:10,17:00,Pendidikan Teknologi Informasi,CIE61208,C,Basis Data,practicum,G1.5,G,1,Lab,75,3,1,False
+Tue,16:10,17:00,Sistem Informasi,COM60014,C,Pemrograman Dasar,practicum,G1.6,G,1,Lab,31,5,1,False
+Tue,16:10,17:00,Sistem Informasi,CSD60706,D,Administrasi Basis Data,practicum,G1.9,G,1,Lab,91,3,1,False
+Tue,17:00,17:50,Teknologi Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.1,F,2,Kelas,103,3,1,False
+Tue,17:00,17:50,Teknologi Informasi,COM60052,C,Etika Profesi,lecture,F2.2,F,2,Kelas,4,2,1,False
+Tue,17:00,17:50,Pendidikan Teknologi Informasi,CIE61115,A,Manajemen Sistem Pendidikan,lecture,F2.4,F,2,Kelas,39,3,0,False
+Tue,17:00,17:50,Sistem Informasi,CSD60702,A,Sistem Pendukung Keputusan,lecture,F2.5,F,2,Kelas,94,3,0,False
+Tue,17:00,17:50,Teknologi Informasi,CIT60052,A,Pengembangan Aplikasi Mobile Terapan,lecture,F3.11,F,3,Kelas,16,3,0,False
+Tue,17:00,17:50,Sistem Informasi,CIS61112,B,Dasar Manajemen Proyek,lecture,F3.12,F,3,Kelas,6,2,1,False
+Tue,17:00,17:50,Teknologi Informasi,UBU60003,A,Kewirausahaan,lecture,F3.17,F,3,Kelas,15,2,1,False
+Tue,17:00,17:50,Sistem Informasi,CIS61107,D,Manajemen Produk,lecture,F3.5a,F,3,Kelas,60,3,1,False
+Tue,17:00,17:50,Sistem Informasi,COM60061,D,Capstone Project,lecture,F3.5b,F,3,Kelas,108,3,1,False
+Tue,17:00,17:50,Teknologi Informasi,COM60014,A,Pemrograman Dasar,lecture,F3.6,F,3,Kelas,47,5,1,False
+Tue,17:00,17:50,Sistem Informasi,CSD60703,B,Tata Kelola Teknologi Informasi,lecture,F3.7b,F,3,Kelas,87,3,1,False
+Tue,17:00,17:50,Teknologi Informasi,CIT61024,D,Teknologi Keamanan Siber,lecture,F3.8,F,3,Kelas,46,3,1,False
+Tue,17:00,17:50,Pendidikan Teknologi Informasi,CIE61110,C,Perancangan Pembelajaran,lecture,F4.13,F,4,Kelas,100,3,1,False
+Tue,17:00,17:50,Teknologi Informasi,CSD60705,C,Pemrograman SQL,practicum,G1.2,G,1,Lab,91,3,1,False
+Tue,17:00,17:50,Sistem Informasi,CSD60706,B,Administrasi Basis Data,practicum,G1.8,G,1,Lab,102,3,1,False
+Tue,17:00,17:50,Teknologi Informasi,CIT61026,A,Internet of Things,practicum,G1.9,G,1,Lab,90,4,1,False
+Wed,07:00,07:50,Teknologi Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F11.1,F,11,Kelas,103,3,1,False
+Wed,07:00,07:50,Sistem Informasi,CIS61119,A,Manajemen Risiko dan Kontrol Sistem Informasi,lecture,F2.2,F,2,Kelas,6,2,0,False
+Wed,07:00,07:50,Teknologi Informasi,CSD60704,A,Desain Basis Data,lecture,F2.4,F,2,Kelas,22,2,1,False
+Wed,07:00,07:50,Pendidikan Teknologi Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F3.12,F,3,Kelas,100,3,1,False
+Wed,07:00,07:50,Pendidikan Teknologi Informasi,COM60014,B,Pemrograman Dasar,lecture,F3.13,F,3,Kelas,4,5,1,False
+Wed,07:00,07:50,Sistem Informasi,COM60061,B,Capstone Project,lecture,F3.15,F,3,Kelas,87,3,1,False
+Wed,07:00,07:50,Sistem Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.5a,F,3,Kelas,103,3,1,False
+Wed,07:00,07:50,Teknologi Informasi,CIT61015,B,Jaringan Komputer,lecture,F3.6,F,3,Kelas,17,4,1,False
+Wed,07:00,07:50,Sistem Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F3.7a,F,3,Kelas,83,3,1,False
+Wed,07:00,07:50,Sistem Informasi,CSD60706,C,Administrasi Basis Data,lecture,F3.7b,F,3,Kelas,75,3,1,False
+Wed,07:00,07:50,Pendidikan Teknologi Informasi,COM60052,A,Etika Profesi,lecture,F3.8,F,3,Kelas,94,2,1,False
+Wed,07:00,07:50,Pendidikan Teknologi Informasi,CIE61103,B,Komunikasi dan Teknologi Pendidikan,lecture,F3.9,F,3,Kelas,39,3,1,False
+Wed,07:00,07:50,Sistem Informasi,CIS61103,B,Manajemen Bisnis,lecture,F4.14,F,4,Kelas,108,2,1,False
+Wed,07:00,07:50,Teknologi Informasi,CIT61021,A,Data Warehouse,lecture,F4.4,F,4,Kelas,73,3,0,False
+Wed,07:00,07:50,Sistem Informasi,COM60061,A,Capstone Project,lecture,F4.6,F,4,Kelas,47,3,1,False
+Wed,07:50,08:40,Sistem Informasi,CSD60708,A,Penambangan Data,lecture,F2.8,F,2,Kelas,92,3,0,False
+Wed,07:50,08:40,Teknologi Informasi,CIT61024,A,Teknologi Keamanan Siber,lecture,F3.1,F,3,Kelas,17,3,1,False
+Wed,07:50,08:40,Sistem Informasi,CIS61111,A,Sistem Informasi berbasis Kecerdasan Buatan,lecture,F3.11,F,3,Kelas,87,2,1,False
+Wed,07:50,08:40,Sistem Informasi,CSD60705,D,Pemrograman SQL,lecture,F3.12,F,3,Kelas,102,3,1,False
+Wed,07:50,08:40,Teknologi Informasi,COM60052,A,Etika Profesi,lecture,F3.17,F,3,Kelas,4,2,1,False
+Wed,07:50,08:40,Pendidikan Teknologi Informasi,CIE61102,C,Filsafat Pendidikan dan Sains,lecture,F3.2,F,3,Kelas,59,4,1,False
+Wed,07:50,08:40,Teknologi Informasi,COM60016,C,Pengantar Keilmuan Komputer,lecture,F3.3,F,3,Kelas,83,2,1,False
+Wed,07:50,08:40,Pendidikan Teknologi Informasi,CIE61108,A,Penilaian Hasil Belajar,lecture,F3.7a,F,3,Kelas,100,3,1,False
+Wed,07:50,08:40,Teknologi Informasi,COM60011,C,Arsitektur dan Organisasi Komputer,lecture,F4.11,F,4,Kelas,103,2,1,False
+Wed,07:50,08:40,Teknologi Informasi,COM60051,D,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.2,F,4,Kelas,103,3,1,False
+Wed,07:50,08:40,Sistem Informasi,CIS61110,B,Pengembangan Aplikasi Mobile,lecture,F4.3,F,4,Kelas,47,3,1,False
+Wed,07:50,08:40,Sistem Informasi,CIS61113,B,Sistem Enterprise,lecture,F4.4,F,4,Kelas,76,3,1,False
+Wed,07:50,08:40,Sistem Informasi,CIS61107,D,Manajemen Produk,lecture,F4.9,F,4,Kelas,60,3,1,False
+Wed,07:50,08:40,Teknologi Informasi,CIT61026,D,Internet of Things,practicum,G1.2,G,1,Lab,96,4,1,False
+Wed,07:50,08:40,Teknologi Informasi,CSD60713,A,Jaringan Terapan,practicum,G1.5,G,1,Lab,79,3,0,False
+Wed,08:40,09:30,Sistem Informasi,CIS61103,D,Manajemen Bisnis,lecture,F11.1,F,11,Kelas,108,2,1,False
+Wed,08:40,09:30,Sistem Informasi,COM60051,B,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.13,F,3,Kelas,100,3,1,False
+Wed,08:40,09:30,Teknologi Informasi,CSD60703,D,Tata Kelola Teknologi Informasi,lecture,F3.14,F,3,Kelas,15,3,1,False
+Wed,08:40,09:30,Sistem Informasi,UBU60003,A,Kewirausahaan,lecture,F3.5a,F,3,Kelas,87,2,1,False
+Wed,08:40,09:30,Sistem Informasi,CSD60704,D,Desain Basis Data,lecture,F3.7a,F,3,Kelas,75,2,1,False
+Wed,08:40,09:30,Sistem Informasi,CIS61118,A,Rekayasa Kebutuhan Sistem Informasi,lecture,F3.7b,F,3,Kelas,4,2,0,False
+Wed,08:40,09:30,Pendidikan Teknologi Informasi,CIE61101,C,Perkembangan Peserta Didik,lecture,F3.9,F,3,Kelas,59,3,1,False
+Wed,08:40,09:30,Sistem Informasi,CIS61124,A,Pengembangan Gim,lecture,F4.11,F,4,Kelas,47,2,0,False
+Wed,08:40,09:30,Pendidikan Teknologi Informasi,CIE61110,A,Perancangan Pembelajaran,lecture,F4.4,F,4,Kelas,39,3,1,False
+Wed,08:40,09:30,Sistem Informasi,CSD60711,B,Perancangan Pengalaman Pengguna,lecture,F4.4,F,4,Kelas,4,3,1,False
+Wed,08:40,09:30,Pendidikan Teknologi Informasi,CIE61112,A,Pengenalan Lapangan Persekolahan 2,lecture,F4.5,F,4,Kelas,103,3,1,False
+Wed,08:40,09:30,Teknologi Informasi,CIT60053,A,Pengembangan Gim,lecture,F4.9,F,4,Kelas,16,3,0,False
+Wed,08:40,09:30,Sistem Informasi,CSD60706,A,Administrasi Basis Data,practicum,G1.4,G,1,Lab,72,3,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,CIE61102,A,Filsafat Pendidikan dan Sains,lecture,F11.3,F,11,Kelas,59,4,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,CIE61208,C,Basis Data,lecture,F2.4,F,2,Kelas,75,3,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,COM60015,B,Matematika Diskret,lecture,F2.8,F,2,Kelas,100,2,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,COM60016,A,Pengantar Keilmuan Komputer,lecture,F3.1,F,3,Kelas,47,2,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,COM60061,B,Capstone Project,lecture,F3.12,F,3,Kelas,22,3,1,False
+Wed,09:30,10:20,Sistem Informasi,CSD60711,B,Perancangan Pengalaman Pengguna,lecture,F3.14,F,3,Kelas,4,3,1,False
+Wed,09:30,10:20,Sistem Informasi,CSD60704,C,Desain Basis Data,lecture,F3.17,F,3,Kelas,108,2,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,CSD60708,B,Penambangan Data,lecture,F3.18,F,3,Kelas,102,3,1,False
+Wed,09:30,10:20,Teknologi Informasi,CSD60714,A,Jaminan Kualitas Perangkat Lunak,lecture,F3.6,F,3,Kelas,4,3,0,False
+Wed,09:30,10:20,Teknologi Informasi,CIT60036,A,Teknologi Berbasis Cloud,lecture,F3.7b,F,3,Kelas,16,3,0,False
+Wed,09:30,10:20,Teknologi Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.12,F,4,Kelas,103,3,1,False
+Wed,09:30,10:20,Teknologi Informasi,COM60015,B,Matematika Diskret,lecture,F4.13,F,4,Kelas,103,2,1,False
+Wed,09:30,10:20,Teknologi Informasi,COM60014,B,Pemrograman Dasar,lecture,F4.4,F,4,Kelas,4,5,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,CIE61206,A,Jaringan Komputer,practicum,G1.2,G,1,Lab,17,3,1,False
+Wed,09:30,10:20,Teknologi Informasi,CIT61026,C,Internet of Things,practicum,G1.4,G,1,Lab,35,4,1,False
+Wed,09:30,10:20,Pendidikan Teknologi Informasi,CIE61206,B,Jaringan Komputer,practicum,G1.9,G,1,Lab,39,3,1,False
+Wed,10:20,11:10,Sistem Informasi,CIS61103,D,Manajemen Bisnis,lecture,F11.3,F,11,Kelas,108,2,1,False
+Wed,10:20,11:10,Sistem Informasi,COM60015,C,Matematika Diskret,lecture,F2.2,F,2,Kelas,100,2,1,False
+Wed,10:20,11:10,Pendidikan Teknologi Informasi,COM60061,C,Capstone Project,lecture,F2.8,F,2,Kelas,40,3,1,False
+Wed,10:20,11:10,Teknologi Informasi,COM60014,C,Pemrograman Dasar,lecture,F3.12,F,3,Kelas,31,5,1,False
+Wed,10:20,11:10,Teknologi Informasi,CSD60714,A,Jaminan Kualitas Perangkat Lunak,lecture,F3.18,F,3,Kelas,4,3,0,False
+Wed,10:20,11:10,Teknologi Informasi,COM60051,A,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F3.4,F,3,Kelas,103,3,1,False
+Wed,10:20,11:10,Sistem Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F3.5b,F,3,Kelas,83,3,1,False
+Wed,10:20,11:10,Teknologi Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F4.13,F,4,Kelas,92,3,1,False
+Wed,10:20,11:10,Sistem Informasi,CIS62109,A,Pengujian dan Evaluasi Sistem Informasi,lecture,F4.14,F,4,Kelas,4,2,0,False
+Wed,10:20,11:10,Sistem Informasi,CIS61108,B,Rekayasa Sistem Informasi,lecture,F4.4,F,4,Kelas,47,5,1,False
+Wed,10:20,11:10,Pendidikan Teknologi Informasi,CIE61206,C,Jaringan Komputer,lecture,F4.5,F,4,Kelas,75,3,1,False
+Wed,11:10,12:00,Pendidikan Teknologi Informasi,CIE61301,D,Kalkulus dan Aljabar Linear,lecture,F2.5,F,2,Kelas,103,3,1,False
+Wed,11:10,12:00,Sistem Informasi,CSD60712,C,Probabilitas dan Statistika,lecture,F2.8,F,2,Kelas,100,3,1,False
+Wed,11:10,12:00,Teknologi Informasi,CIT61024,B,Teknologi Keamanan Siber,lecture,F3.10,F,3,Kelas,35,3,1,False
+Wed,11:10,12:00,Pendidikan Teknologi Informasi,CIE61112,B,Pengenalan Lapangan Persekolahan 2,lecture,F3.17,F,3,Kelas,39,3,1,False
+Wed,11:10,12:00,Pendidikan Teknologi Informasi,COM60014,B,Pemrograman Dasar,lecture,F3.3,F,3,Kelas,4,5,1,False
+Wed,11:10,12:00,Sistem Informasi,CIS61112,D,Dasar Manajemen Proyek,lecture,F3.9,F,3,Kelas,76,2,1,False
+Wed,11:10,12:00,Teknologi Informasi,COM60014,A,Pemrograman Dasar,practicum,G1.4,G,1,Lab,47,5,1,False
+Wed,12:00,12:50,Sistem Informasi,COM60016,A,Pengantar Keilmuan Komputer,lecture,F11.1,F,11,Kelas,47,2,1,False
+Wed,12:00,12:50,Sistem Informasi,COM60061,C,Capstone Project,lecture,F11.1,F,11,Kelas,4,3,1,False
+Wed,12:00,12:50,Pendidikan Teknologi Informasi,COM60016,B,Pengantar Keilmuan Komputer,lecture,F2.2,F,2,Kelas,4,2,1,False
+Wed,12:00,12:50,Pendidikan Teknologi Informasi,CIE61103,C,Komunikasi dan Teknologi Pendidikan,lecture,F2.6,F,2,Kelas,103,3,1,False
+Wed,12:00,12:50,Sistem Informasi,UBU60003,B,Kewirausahaan,lecture,F3.1,F,3,Kelas,47,2,1,False
+Wed,12:00,12:50,Sistem Informasi,CIS61113,A,Sistem Enterprise,lecture,F3.5a,F,3,Kelas,76,3,1,False
+Wed,12:00,12:50,Pendidikan Teknologi Informasi,CIE61115,A,Manajemen Sistem Pendidikan,lecture,F3.5b,F,3,Kelas,39,3,0,False
+Wed,12:00,12:50,Pendidikan Teknologi Informasi,CIE61109,B,Pembelajaran Mikro,lecture,F3.7b,F,3,Kelas,100,3,1,False
+Wed,12:00,12:50,Teknologi Informasi,CSD60704,B,Desain Basis Data,lecture,F3.8,F,3,Kelas,102,2,1,False
+Wed,12:00,12:50,Sistem Informasi,CSD60703,D,Tata Kelola Teknologi Informasi,lecture,F4.14,F,4,Kelas,6,3,1,False
+Wed,12:00,12:50,Sistem Informasi,COM60014,C,Pemrograman Dasar,lecture,F4.3,F,4,Kelas,31,5,1,False
+Wed,12:00,12:50,Teknologi Informasi,CIT61015,D,Jaringan Komputer,practicum,G1.3,G,1,Lab,75,4,1,False
+Wed,12:00,12:50,Pendidikan Teknologi Informasi,COM60014,C,Pemrograman Dasar,practicum,G1.8,G,1,Lab,67,5,1,False
+Wed,12:00,12:50,Sistem Informasi,CIS61125,A,Pengantar GeoInformasi,practicum,G1.9,G,1,Lab,87,3,0,False
+Wed,12:50,13:40,Pendidikan Teknologi Informasi,CIE61114,A,Pendidikan Orang Dewasa dan Berkelanjutan,lecture,F11.4,F,11,Kelas,39,3,0,False
+Wed,12:50,13:40,Pendidikan Teknologi Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F2.2,F,2,Kelas,103,3,1,False
+Wed,12:50,13:40,Pendidikan Teknologi Informasi,CSD60708,A,Penambangan Data,lecture,F2.9,F,2,Kelas,102,3,1,False
+Wed,12:50,13:40,Teknologi Informasi,COM60015,C,Matematika Diskret,lecture,F3.12,F,3,Kelas,100,2,1,False
+Wed,12:50,13:40,Sistem Informasi,CIS61115,A,Komunikasi Profesional,lecture,F3.15,F,3,Kelas,87,2,1,False
+Wed,12:50,13:40,Sistem Informasi,CIS61107,A,Manajemen Produk,lecture,F3.16,F,3,Kelas,47,3,1,False
+Wed,12:50,13:40,Teknologi Informasi,CSD60703,A,Tata Kelola Teknologi Informasi,lecture,F3.17,F,3,Kelas,6,3,1,False
+Wed,12:50,13:40,Sistem Informasi,CIS61110,A,Pengembangan Aplikasi Mobile,lecture,F3.2,F,3,Kelas,4,3,1,False
+Wed,12:50,13:40,Sistem Informasi,CIS60102,A,Pengembangan Aplikasi Multiplatform,lecture,F3.4,F,3,Kelas,16,2,0,False
+Wed,12:50,13:40,Sistem Informasi,UBU60003,B,Kewirausahaan,lecture,F3.7a,F,3,Kelas,47,2,1,False
+Wed,12:50,13:40,Pendidikan Teknologi Informasi,CIE61301,C,Kalkulus dan Aljabar Linear,lecture,F3.9,F,3,Kelas,75,3,1,False
+Wed,12:50,13:40,Teknologi Informasi,CIT61006,C,Pengembangan Aplikasi Web,lecture,F4.14,F,4,Kelas,105,4,1,False
+Wed,12:50,13:40,Teknologi Informasi,CIT62003,D,Dasar Pengembangan Sistem informasi,practicum,G1.2,G,1,Lab,108,3,1,False
+Wed,12:50,13:40,Teknologi Informasi,CSD60711,A,Perancangan Pengalaman Pengguna,practicum,G1.7,G,1,Lab,22,3,0,False
+Wed,13:40,14:30,Pendidikan Teknologi Informasi,CIE61112,C,Pengenalan Lapangan Persekolahan 2,lecture,F2.6,F,2,Kelas,39,3,1,False
+Wed,13:40,14:30,Pendidikan Teknologi Informasi,CSD60714,A,Jaminan Kualitas Perangkat Lunak,lecture,F2.8,F,2,Kelas,4,3,0,False
+Wed,13:40,14:30,Sistem Informasi,CSD60712,A,Probabilitas dan Statistika,lecture,F3.1,F,3,Kelas,83,3,1,False
+Wed,13:40,14:30,Sistem Informasi,COM60014,D,Pemrograman Dasar,lecture,F3.15,F,3,Kelas,67,5,1,False
+Wed,13:40,14:30,Sistem Informasi,COM60014,A,Pemrograman Dasar,lecture,F3.16,F,3,Kelas,47,5,1,False
+Wed,13:40,14:30,Sistem Informasi,CIS60105,A,Strategi Transformasi Digital,lecture,F3.5a,F,3,Kelas,53,2,0,False
+Wed,13:40,14:30,Teknologi Informasi,UBU60003,A,Kewirausahaan,lecture,F3.7a,F,3,Kelas,15,2,1,False
+Wed,13:40,14:30,Pendidikan Teknologi Informasi,CSD60713,A,Jaringan Terapan,lecture,F4.10,F,4,Kelas,17,3,0,False
+Wed,13:40,14:30,Teknologi Informasi,COM60011,D,Arsitektur dan Organisasi Komputer,lecture,F4.12,F,4,Kelas,103,2,1,False
+Wed,13:40,14:30,Pendidikan Teknologi Informasi,CIE61108,D,Penilaian Hasil Belajar,lecture,F4.14,F,4,Kelas,100,3,1,False
+Wed,13:40,14:30,Sistem Informasi,CIS61110,D,Pengembangan Aplikasi Mobile,lecture,F4.3,F,4,Kelas,60,3,1,False
+Wed,13:40,14:30,Teknologi Informasi,CIT61015,A,Jaringan Komputer,lecture,F4.6,F,4,Kelas,79,4,1,False
+Wed,13:40,14:30,Teknologi Informasi,COM60014,B,Pemrograman Dasar,practicum,G1.2,G,1,Lab,4,5,1,False
+Wed,13:40,14:30,Pendidikan Teknologi Informasi,CIE61208,D,Basis Data,practicum,G1.4,G,1,Lab,91,3,1,False
+Wed,14:30,15:20,Teknologi Informasi,CIT60053,A,Pengembangan Gim,lecture,F11.4,F,11,Kelas,16,3,0,False
+Wed,14:30,15:20,Teknologi Informasi,CIT60045,A,Kriptografi,lecture,F2.1,F,2,Kelas,14,3,0,False
+Wed,14:30,15:20,Sistem Informasi,CSD60707,A,Big Data dan Analitik,lecture,F2.2,F,2,Kelas,72,2,0,False
+Wed,14:30,15:20,Pendidikan Teknologi Informasi,CIE61301,B,Kalkulus dan Aljabar Linear,lecture,F2.4,F,2,Kelas,100,3,1,False
+Wed,14:30,15:20,Pendidikan Teknologi Informasi,CIE61101,C,Perkembangan Peserta Didik,lecture,F2.5,F,2,Kelas,59,3,1,False
+Wed,14:30,15:20,Sistem Informasi,CSD60703,D,Tata Kelola Teknologi Informasi,lecture,F2.6,F,2,Kelas,6,3,1,False
+Wed,14:30,15:20,Teknologi Informasi,CSD60708,A,Penambangan Data,lecture,F2.8,F,2,Kelas,92,3,0,False
+Wed,14:30,15:20,Sistem Informasi,CIS61107,A,Manajemen Produk,lecture,F3.1,F,3,Kelas,47,3,1,False
+Wed,14:30,15:20,Sistem Informasi,COM60014,B,Pemrograman Dasar,lecture,F3.14,F,3,Kelas,4,5,1,False
+Wed,14:30,15:20,Sistem Informasi,CIS60104,A,Transformasi Pemerintah,lecture,F3.17,F,3,Kelas,94,2,0,False
+Wed,14:30,15:20,Pendidikan Teknologi Informasi,CIE61112,A,Pengenalan Lapangan Persekolahan 2,lecture,F3.6,F,3,Kelas,103,3,1,False
+Wed,14:30,15:20,Sistem Informasi,CIS61115,C,Komunikasi Profesional,lecture,F3.7a,F,3,Kelas,87,2,1,False
+Wed,14:30,15:20,Pendidikan Teknologi Informasi,COM60052,D,Etika Profesi,lecture,F4.11,F,4,Kelas,48,2,1,False
+Wed,14:30,15:20,Teknologi Informasi,CIT62003,D,Dasar Pengembangan Sistem informasi,lecture,F4.14,F,4,Kelas,108,3,1,False
+Wed,14:30,15:20,Sistem Informasi,CIS61112,C,Dasar Manajemen Proyek,lecture,F4.2,F,4,Kelas,67,2,1,False
+Wed,14:30,15:20,Sistem Informasi,CIS61106,A,Keamanan dan Privasi Data,lecture,F4.6,F,4,Kelas,17,2,1,False
+Wed,14:30,15:20,Teknologi Informasi,CIT60049,A,Teknologi Basis Data Non Relational,lecture,F4.9,F,4,Kelas,102,3,0,False
+Wed,14:30,15:20,Teknologi Informasi,CIT62003,B,Dasar Pengembangan Sistem informasi,practicum,G1.6,G,1,Lab,31,3,1,False
+Wed,14:30,15:20,Sistem Informasi,CSD60705,C,Pemrograman SQL,practicum,G1.8,G,1,Lab,73,3,1,False
+Wed,15:20,16:10,Teknologi Informasi,CSD60703,C,Tata Kelola Teknologi Informasi,lecture,F2.1,F,2,Kelas,6,3,1,False
+Wed,15:20,16:10,Sistem Informasi,CIS61115,C,Komunikasi Profesional,lecture,F2.8,F,2,Kelas,87,2,1,False
+Wed,15:20,16:10,Sistem Informasi,CSD60705,A,Pemrograman SQL,lecture,F2.9,F,2,Kelas,22,3,1,False
+Wed,15:20,16:10,Pendidikan Teknologi Informasi,CIE61113,A,Pengembangan Program Pelatihan Teknologi Informasi,lecture,F3.11,F,3,Kelas,59,3,0,False
+Wed,15:20,16:10,Pendidikan Teknologi Informasi,CIE61103,D,Komunikasi dan Teknologi Pendidikan,lecture,F3.12,F,3,Kelas,39,3,1,False
+Wed,15:20,16:10,Sistem Informasi,CSD60711,C,Perancangan Pengalaman Pengguna,lecture,F3.2,F,3,Kelas,60,3,1,False
+Wed,15:20,16:10,Teknologi Informasi,COM60014,D,Pemrograman Dasar,lecture,F3.3,F,3,Kelas,75,5,1,False
+Wed,15:20,16:10,Pendidikan Teknologi Informasi,CIE61108,C,Penilaian Hasil Belajar,lecture,F4.11,F,4,Kelas,100,3,1,False
+Wed,15:20,16:10,Teknologi Informasi,CIT60036,A,Teknologi Berbasis Cloud,lecture,F4.5,F,4,Kelas,16,3,0,False
+Wed,15:20,16:10,Sistem Informasi,CIS61102,D,Infrastruktur Teknologi Informasi,lecture,F4.6,F,4,Kelas,103,2,1,False
+Wed,15:20,16:10,Sistem Informasi,COM60014,A,Pemrograman Dasar,practicum,G1.3,G,1,Lab,47,5,1,False
+Wed,15:20,16:10,Sistem Informasi,CIS61108,A,Rekayasa Sistem Informasi,practicum,G1.5,G,1,Lab,4,5,1,False
+Wed,15:20,16:10,Sistem Informasi,CIS61108,D,Rekayasa Sistem Informasi,practicum,G1.7,G,1,Lab,108,5,1,False
+Wed,16:10,17:00,Teknologi Informasi,COM60061,A,Capstone Project,lecture,F11.1,F,11,Kelas,14,3,1,False
+Wed,16:10,17:00,Pendidikan Teknologi Informasi,COM60015,D,Matematika Diskret,lecture,F11.3,F,11,Kelas,100,2,1,False
+Wed,16:10,17:00,Pendidikan Teknologi Informasi,CIE61109,C,Pembelajaran Mikro,lecture,F3.14,F,3,Kelas,39,3,1,False
+Wed,16:10,17:00,Sistem Informasi,CIS60103,A,Pemrograman Web Lanjut,lecture,F3.16,F,3,Kelas,1,3,0,False
+Wed,16:10,17:00,Sistem Informasi,COM60016,B,Pengantar Keilmuan Komputer,lecture,F3.18,F,3,Kelas,4,2,1,False
+Wed,16:10,17:00,Pendidikan Teknologi Informasi,CIE62204,B,Paradigma Sistem,lecture,F3.2,F,3,Kelas,6,2,1,False
+Wed,16:10,17:00,Sistem Informasi,CSD60711,B,Perancangan Pengalaman Pengguna,lecture,F3.5b,F,3,Kelas,4,3,1,False
+Wed,16:10,17:00,Pendidikan Teknologi Informasi,UBU60003,B,Kewirausahaan,lecture,F3.6,F,3,Kelas,62,2,1,False
+Wed,16:10,17:00,Teknologi Informasi,CIT61016,C,Data Sains,lecture,F3.7b,F,3,Kelas,15,3,1,False
+Wed,16:10,17:00,Sistem Informasi,CSD60702,A,Sistem Pendukung Keputusan,lecture,F3.8,F,3,Kelas,94,3,0,False
+Wed,16:10,17:00,Sistem Informasi,CIS61110,C,Pengembangan Aplikasi Mobile,lecture,F4.12,F,4,Kelas,31,3,1,False
+Wed,16:10,17:00,Teknologi Informasi,CSD60712,D,Probabilitas dan Statistika,lecture,F4.2,F,4,Kelas,16,3,1,False
+Wed,16:10,17:00,Pendidikan Teknologi Informasi,COM60052,C,Etika Profesi,lecture,F4.4,F,4,Kelas,22,2,1,False
+Wed,16:10,17:00,Teknologi Informasi,COM60014,D,Pemrograman Dasar,lecture,F4.5,F,4,Kelas,75,5,1,False
+Wed,16:10,17:00,Sistem Informasi,CIS61128,A,Keamanan Jaringan dan Siber,lecture,F4.6,F,4,Kelas,17,3,0,False
+Wed,16:10,17:00,Pendidikan Teknologi Informasi,COM60051,C,Metodologi Penelitian dan Penulisan Ilmiah,lecture,F4.9,F,4,Kelas,103,3,1,False
+Wed,16:10,17:00,Teknologi Informasi,CIT61006,B,Pengembangan Aplikasi Web,practicum,G1.9,G,1,Lab,47,4,1,False
+Wed,17:00,17:50,Pendidikan Teknologi Informasi,CIE61110,C,Perancangan Pembelajaran,lecture,F2.1,F,2,Kelas,100,3,1,False
+Wed,17:00,17:50,Pendidikan Teknologi Informasi,CIE61101,B,Perkembangan Peserta Didik,lecture,F2.4,F,2,Kelas,39,3,1,False
+Wed,17:00,17:50,Sistem Informasi,COM60015,B,Matematika Diskret,lecture,F3.10,F,3,Kelas,103,2,1,False
+Wed,17:00,17:50,Teknologi Informasi,UBU60003,D,Kewirausahaan,lecture,F3.11,F,3,Kelas,96,2,1,False
+Wed,17:00,17:50,Sistem Informasi,CIS61110,A,Pengembangan Aplikasi Mobile,lecture,F3.16,F,3,Kelas,4,3,1,False
+Wed,17:00,17:50,Pendidikan Teknologi Informasi,CSD60701,A,Manajemen Layanan Teknologi Informasi,lecture,F3.17,F,3,Kelas,108,3,0,False
+Wed,17:00,17:50,Pendidikan Teknologi Informasi,CSD60713,A,Jaringan Terapan,lecture,F3.3,F,3,Kelas,17,3,0,False
+Wed,17:00,17:50,Sistem Informasi,CIS61108,B,Rekayasa Sistem Informasi,lecture,F3.4,F,3,Kelas,47,5,1,False
+Wed,17:00,17:50,Teknologi Informasi,CIT60031,A,Manajemen Proyek Teknologi Informasi,lecture,F3.8,F,3,Kelas,94,3,0,False
+Wed,17:00,17:50,Sistem Informasi,CSD60712,B,Probabilitas dan Statistika,lecture,F3.9,F,3,Kelas,87,3,1,False
+Wed,17:00,17:50,Sistem Informasi,UBU60003,C,Kewirausahaan,lecture,F4.3,F,4,Kelas,62,2,1,False
+Wed,17:00,17:50,Teknologi Informasi,CSD60714,A,Jaminan Kualitas Perangkat Lunak,lecture,F4.4,F,4,Kelas,4,3,0,False
+Wed,17:00,17:50,Sistem Informasi,CSD60704,B,Desain Basis Data,lecture,F4.6,F,4,Kelas,102,2,1,False
+Wed,17:00,17:50,Pendidikan Teknologi Informasi,CIE61208,B,Basis Data,practicum,G1.5,G,1,Lab,60,3,1,False
