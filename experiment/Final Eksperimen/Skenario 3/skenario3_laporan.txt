@@ -1,0 +1,23 @@
+=== SKENARIO 3: PERBANDINGAN MODEL 1 (FULL COA) vs MODEL 2 (GREEDY) ===
+
+Model 1 (Full COA):
+  Mean fitness   : 150684.00000000 (std 6285.12684734)
+  Best fitness   : 140860.00000000
+  Mean penalty   : 150684.0  (min 140860)
+  Mean exec time : 1429.98 s
+  Feasible rate  : 0.0%
+
+Model 2 (Greedy):
+  Mean fitness   : 246111.25000000 (std 3042.57245031)
+  Best fitness   : 241730.00000000
+  Mean penalty   : 246111.2  (min 241730)
+  Mean exec time : 1848.92 s
+  Feasible rate  : 0.0%
+
+KESIMPULAN: rata-rata fitness (penalty) lebih rendah pada Model 1 (Full COA).
+
+CATATAN PENTING:
+- Model 2 memiliki constraint tambahan H7 (dosen tidak berminat) yang tidak ada di Model 1,
+  sehingga penalti Model 2 dapat lebih tinggi karena sumber pelanggaran ekstra.
+- Perbedaan kedua model mencakup DUA faktor: strategi inisialisasi (greedy vs acak)
+  DAN penanganan dosen (fix vs variabel COA). Interpretasi harus menyebut keduanya.

@@ -1,0 +1,3 @@
+model,n_run,mean_fitness,std_fitness,best_fitness,mean_penalty,min_penalty,mean_exec_time,feasible_rate_%
+Model 1 (Full COA),40,150684.0,6285.126847342018,140860,150684.0,140860,1429.9762500000002,0.0
+Model 2 (Greedy),40,246111.25,3042.57245030988,241730,246111.25,241730,1848.925,0.0
