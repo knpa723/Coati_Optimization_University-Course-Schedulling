@@ -3,8 +3,8 @@
 Total run: 40 (8 kombinasi x 5 seed)
 
 --- SKENARIO 1: PARAMETER ---
-Dampak population terhadap fitness: 0.81%
-Dampak max_iter terhadap fitness: 2.42%
+Dampak population terhadap fitness: 0.80%
+Dampak max_iter terhadap fitness: 2.43%
 Dampak slot_interval terhadap fitness: 0.00%
 Konfigurasi terbaik: pop=50, iter=1000, interval=50
 

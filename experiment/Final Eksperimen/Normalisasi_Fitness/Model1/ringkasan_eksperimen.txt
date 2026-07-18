@@ -1,0 +1,21 @@
+=== RINGKASAN EKSPERIMEN COA MODEL 1 (Full COA, Random Init) ===
+
+Total run: 40 (8 kombinasi x 5 seed)
+
+--- SKENARIO 1: PARAMETER ---
+Dampak population terhadap fitness: 1.60%
+Dampak max_iter terhadap fitness: 10.03%
+Dampak slot_interval terhadap fitness: 0.00%
+Konfigurasi terbaik: pop=50, iter=1000, interval=50
+
+--- SKENARIO 2: CONSTRAINTS ---
+Penalty akhir terbaik: 140860
+Run mencapai feasible: 0.0%
+  H1_room_conflict         | elim 100.0% | residual 0.00
+  H2_lecturer_conflict     | elim  97.5% | residual 0.02
+  H3_lecturer_overload     | elim   5.0% | residual 4.58
+  H4_room_type_mismatch    | elim 100.0% | residual 0.00
+  H5_lunch_break           | elim   0.0% | residual 129.78
+  H6_class_completeness    | elim 100.0% | residual 0.00
+  H7_lecturer_not_interested | elim   0.0% | residual 11.65
+  S1_floor_movement        | elim   0.0% | residual 465.90

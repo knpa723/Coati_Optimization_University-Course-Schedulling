@@ -1,10 +1,10 @@
-=== RINGKASAN EKSPERIMEN COA MODEL 1 (Full COA, Random Init) ===
+=== RINGKASAN EKSPERIMEN COA MODEL 2 (Pure COA, Random Init) ===
 
 Total run: 40 (8 kombinasi x 5 seed)
 
 --- SKENARIO 1: PARAMETER ---
-Dampak population terhadap fitness: 1.60%
-Dampak max_iter terhadap fitness: 10.03%
+Dampak population terhadap fitness: 1.56%
+Dampak max_iter terhadap fitness: 10.07%
 Dampak slot_interval terhadap fitness: 0.00%
 Konfigurasi terbaik: pop=50, iter=1000, interval=50
 
